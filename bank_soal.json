@@ -1,0 +1,1229 @@
+{
+ "subElemen": [
+  {
+   "kode": "UJIAN01",
+   "nama": "Ujian Sub-Elemen 1 — Konsep Dasar Ilmu Ekonomi (50 Soal)",
+   "jumlahSoal": 50
+  }
+ ],
+ "soal": [
+  {
+   "id": 1,
+   "subElemenKode": "UJIAN01",
+   "elemen": "Konsep Dasar Ilmu Ekonomi",
+   "subElemen": "1-3. Pengertian, Sebab & Inti Masalah Ekonomi",
+   "level": "Penalaran (reasoning)",
+   "bentukSoal": "PGK Kategori",
+   "indikator": "Menentukan benar/salah pernyataan tentang kelangkaan sumber daya manusia dan solusinya",
+   "soal": "Sebuah perusahaan rintisan (startup) teknologi kesulitan merekrut programmer berpengalaman di bidang kecerdasan buatan (AI), karena jumlah talenta dengan keahlian tersebut di dalam negeri masih sangat sedikit dibanding permintaan industri yang tumbuh pesat. Perusahaan mempertimbangkan merekrut tenaga kerja asing, membuka program pelatihan internal, atau bekerja sama dengan kampus untuk menyiapkan talenta baru.\n\nTentukan Benar atau Salah untuk setiap pernyataan berikut berdasarkan ilustrasi tersebut.",
+   "opsi": {
+    "A": "Kelangkaan talenta AI dalam ilustrasi tersebut disebabkan oleh ketimpangan antara kebutuhan industri dan ketersediaan tenaga kerja terampil di bidang tersebut",
+    "B": "Kerja sama dengan kampus untuk menyiapkan talenta baru merupakan solusi yang berorientasi jangka panjang dibanding sekadar merekrut tenaga asing",
+    "C": "Karena termasuk sumber daya manusia, keahlian AI tidak dapat mengalami kelangkaan sebagaimana sumber daya alam"
+   },
+   "kunci": "A. Benar, B. Benar, C. Salah",
+   "pembahasan": {
+    "A": "Benar — permintaan industri terhadap talenta AI tumbuh pesat sementara jumlah talenta dengan keahlian tersebut di dalam negeri masih sangat sedikit, ketimpangan inilah yang menyebabkan kelangkaan.",
+    "B": "Benar — kerja sama dengan kampus membangun pasokan talenta AI baru secara berkelanjutan dari dalam negeri, berbeda dengan merekrut tenaga asing yang sifatnya lebih sementara dan bergantung pada pihak luar.",
+    "C": "Salah — keahlian atau keterampilan manusia (seperti kompetensi AI) juga bisa mengalami kelangkaan jika jumlah orang yang menguasainya sangat terbatas dibanding kebutuhan pasar kerja, persis seperti digambarkan dalam ilustrasi ini."
+   }
+  },
+  {
+   "id": 2,
+   "subElemenKode": "UJIAN01",
+   "elemen": "Konsep Dasar Ilmu Ekonomi",
+   "subElemen": "1-3. Pengertian, Sebab & Inti Masalah Ekonomi",
+   "level": "Penalaran (reasoning)",
+   "bentukSoal": "PGK MCMA",
+   "indikator": "Menganalisis dampak dan solusi kelangkaan air bersih di wilayah pesisir",
+   "soal": "Wilayah pesisir Kota Baharu mengalami intrusi air laut yang mencemari sumur warga, ditambah curah hujan yang menurun akibat perubahan iklim. Akibatnya, warga harus membeli air bersih dengan harga tiga kali lipat dari biasanya. Pemerintah kota mempertimbangkan pembangunan instalasi desalinasi, subsidi tangki air, edukasi hemat air, serta kerja sama dengan kota tetangga untuk pasokan air pipa.\n\nManakah solusi yang paling tepat dan berkelanjutan untuk mengatasi kelangkaan air bersih tersebut? (Jawaban benar lebih dari satu)",
+   "opsi": {
+    "A": "Membangun instalasi desalinasi air laut sebagai sumber air bersih jangka panjang",
+    "B": "Menjalin kerja sama pasokan air pipa dengan kota tetangga untuk memenuhi kebutuhan jangka menengah",
+    "C": "Membiarkan mekanisme pasar menentukan harga air tanpa intervensi pemerintah",
+    "D": "Mengedukasi warga tentang konservasi dan penggunaan air secara efisien",
+    "E": "Melarang total penggunaan air sumur oleh warga pesisir mulai saat ini"
+   },
+   "kunci": "A, B, dan D",
+   "pembahasan": {
+    "A": "Benar — desalinasi mengubah air laut menjadi air bersih sehingga menciptakan sumber air baru yang tidak lagi bergantung pada curah hujan yang menurun akibat perubahan iklim, menjadikannya solusi struktural jangka panjang.",
+    "B": "Benar — kerja sama pasokan air pipa dengan kota tetangga bisa segera meringankan kebutuhan warga selagi instalasi desalinasi yang lebih permanen dibangun, cocok sebagai solusi jangka menengah.",
+    "C": "Salah — membiarkan harga air naik bebas (yang menurut ilustrasi sudah tiga kali lipat) tanpa intervensi hanya menambah beban warga tanpa menambah pasokan air bersih sama sekali.",
+    "D": "Benar — edukasi hemat air membantu menekan permintaan sehingga air yang tersedia bisa mencukupi lebih banyak warga, melengkapi solusi penambahan pasokan dari sisi lain.",
+    "E": "Salah — melarang total penggunaan sumur tanpa memastikan dulu ada pengganti yang cukup justru akan menyulitkan warga yang bergantung pada sumur untuk kebutuhan sehari-hari."
+   }
+  },
+  {
+   "id": 3,
+   "subElemenKode": "UJIAN01",
+   "elemen": "Konsep Dasar Ilmu Ekonomi",
+   "subElemen": "1-3. Pengertian, Sebab & Inti Masalah Ekonomi",
+   "level": "Pemahaman (knowing)",
+   "bentukSoal": "Pilihan Ganda",
+   "indikator": "Mengidentifikasi faktor penyebab kelangkaan",
+   "soal": "Setiap tahun, permintaan pasir kuarsa untuk industri kaca dan chip semikonduktor terus meningkat seiring pertumbuhan industri elektronik dunia, sementara jumlah tambang pasir kuarsa berkualitas tinggi yang layak dieksploitasi relatif tetap.\n\nIlustrasi tersebut menunjukkan penyebab kelangkaan berupa ....",
+   "opsi": {
+    "A": "Bencana alam yang merusak sumber daya alam",
+    "B": "Ketimpangan antara pertumbuhan kebutuhan manusia yang cepat dengan ketersediaan sumber daya alam yang terbatas",
+    "C": "Rendahnya kemampuan teknologi untuk mengelola sumber daya",
+    "D": "Kebijakan pemerintah yang membatasi eksploitasi tambang",
+    "E": "Perang dan konflik yang mengganggu distribusi sumber daya"
+   },
+   "kunci": "B",
+   "pembahasan": {
+    "A": "Salah — ilustrasi tidak menyebut bencana alam apa pun sebagai penyebab.",
+    "B": "Benar — permintaan pasir kuarsa terus meningkat mengikuti pertumbuhan industri elektronik, sementara tambang berkualitas tinggi jumlahnya relatif tetap; inilah inti kelangkaan, yaitu kebutuhan tumbuh cepat sedangkan sumber daya terbatas.",
+    "C": "Salah — ilustrasi tidak menyinggung soal kemampuan teknologi pengolahan sama sekali.",
+    "D": "Salah — tidak disebutkan adanya kebijakan pemerintah yang membatasi eksploitasi tambang.",
+    "E": "Salah — tidak ada indikasi perang atau konflik yang mengganggu distribusi dalam ilustrasi."
+   }
+  },
+  {
+   "id": 4,
+   "subElemenKode": "UJIAN01",
+   "elemen": "Konsep Dasar Ilmu Ekonomi",
+   "subElemen": "1-3. Pengertian, Sebab & Inti Masalah Ekonomi",
+   "level": "Pemahaman (knowing)",
+   "bentukSoal": "Pilihan Ganda",
+   "indikator": "Mengidentifikasi kelangkaan bahan tambang mineral kritis",
+   "soal": "Permintaan nikel dunia melonjak tajam seiring pesatnya industri baterai kendaraan listrik, sementara cadangan nikel berkualitas tinggi yang mudah dieksploitasi semakin menipis di berbagai negara penghasil, termasuk Indonesia.\n\nKondisi tersebut menggambarkan kelangkaan yang disebabkan oleh ....",
+   "opsi": {
+    "A": "Turunnya permintaan terhadap nikel di pasar global",
+    "B": "Meningkatnya kebutuhan industri terhadap nikel yang berhadapan dengan keterbatasan cadangan berkualitas tinggi",
+    "C": "Larangan total ekspor nikel oleh seluruh negara penghasil",
+    "D": "Rendahnya harga jual nikel di pasar internasional",
+    "E": "Tidak adanya industri yang membutuhkan nikel sebagai bahan baku"
+   },
+   "kunci": "B",
+   "pembahasan": {
+    "A": "Salah — bertentangan dengan ilustrasi yang justru menyebutkan permintaan nikel dunia melonjak tajam, bukan turun.",
+    "B": "Benar — permintaan industri baterai kendaraan listrik terus meningkat sementara cadangan nikel berkualitas tinggi yang mudah dieksploitasi semakin menipis; ketimpangan antara kebutuhan yang tumbuh dan cadangan yang terbatas inilah penyebab kelangkaan.",
+    "C": "Salah — tidak ada informasi tentang larangan ekspor total oleh seluruh negara penghasil nikel dalam ilustrasi.",
+    "D": "Salah — tidak ada indikasi mengenai rendahnya harga jual nikel; justru permintaannya yang disebutkan melonjak tajam.",
+    "E": "Salah — bertentangan dengan ilustrasi yang menyebutkan industri baterai kendaraan listrik justru sangat membutuhkan nikel sebagai bahan baku utama."
+   }
+  },
+  {
+   "id": 5,
+   "subElemenKode": "UJIAN01",
+   "elemen": "Konsep Dasar Ilmu Ekonomi",
+   "subElemen": "1-3. Pengertian, Sebab & Inti Masalah Ekonomi",
+   "level": "Penalaran (reasoning)",
+   "bentukSoal": "Pilihan Ganda",
+   "indikator": "Menganalisis penyebab kelangkaan sumber daya energi",
+   "soal": "Beberapa daerah di Indonesia bagian timur masih mengalami krisis listrik meskipun daerah tersebut memiliki potensi sumber daya air dan panas bumi yang besar. Krisis terjadi karena pembangkit listrik belum banyak dibangun, jaringan distribusi belum menjangkau seluruh wilayah, dan investasi infrastruktur energi masih terbatas.\n\nBerdasarkan ilustrasi tersebut, kelangkaan listrik di wilayah tersebut paling tepat disebabkan oleh ....",
+   "opsi": {
+    "A": "Tidak tersedianya sumber daya alam yang dapat diolah menjadi energi listrik",
+    "B": "Keterbatasan kemampuan mengelola sumber daya yang tersedia menjadi barang/jasa yang dibutuhkan",
+    "C": "Rendahnya jumlah penduduk yang membutuhkan listrik di wilayah tersebut",
+    "D": "Tingginya harga listrik yang membuat masyarakat enggan menggunakannya",
+    "E": "Larangan pemerintah pusat terhadap pembangunan pembangkit listrik di daerah tersebut"
+   },
+   "kunci": "B",
+   "pembahasan": {
+    "A": "Salah — sumber daya air dan panas bumi di wilayah tersebut disebutkan justru melimpah, jadi penyebabnya bukan ketiadaan sumber daya alam.",
+    "B": "Benar — ilustrasi menyebutkan pembangkit belum banyak dibangun, jaringan distribusi belum menjangkau, dan investasi terbatas; semua ini soal kemampuan mengelola sumber daya (infrastruktur, dana, teknologi) menjadi listrik yang bisa dinikmati, bukan soal sumber dayanya yang tidak ada.",
+    "C": "Salah — ilustrasi tidak menyebutkan apa pun tentang jumlah penduduk; krisis listrik disebabkan oleh infrastruktur dan investasi, bukan rendahnya kebutuhan.",
+    "D": "Salah — harga listrik yang tinggi (jika ada) adalah akibat dari kelangkaan, bukan penyebab awalnya; akar masalah ada di sisi pembangunan infrastruktur.",
+    "E": "Salah — tidak ada satu pun informasi dalam ilustrasi yang menyebut larangan pemerintah; justru disebutkan investasi yang masih terbatas."
+   }
+  },
+  {
+   "id": 6,
+   "subElemenKode": "UJIAN01",
+   "elemen": "Konsep Dasar Ilmu Ekonomi",
+   "subElemen": "1-3. Pengertian, Sebab & Inti Masalah Ekonomi",
+   "level": "Penalaran (reasoning)",
+   "bentukSoal": "Pilihan Ganda",
+   "indikator": "Menganalisis kelangkaan sumber daya energi fosil dan solusinya",
+   "soal": "Cadangan minyak bumi nasional diperkirakan akan habis dalam waktu kurang dari 10 tahun mendatang jika eksploitasi terus dilakukan dengan laju saat ini, sementara konsumsi energi masyarakat terus meningkat seiring pertumbuhan penduduk dan industri.\n\nKebijakan jangka panjang yang paling tepat untuk mengatasi ancaman kelangkaan energi tersebut adalah ....",
+   "opsi": {
+    "A": "Meningkatkan laju eksploitasi minyak bumi agar kebutuhan energi saat ini terpenuhi maksimal",
+    "B": "Mengembangkan dan mempercepat transisi ke sumber energi terbarukan seperti surya, angin, dan panas bumi",
+    "C": "Menghentikan seluruh aktivitas industri agar konsumsi energi tidak terus meningkat",
+    "D": "Mengimpor minyak bumi dalam jumlah besar tanpa mengembangkan sumber energi alternatif",
+    "E": "Membiarkan kondisi tersebut karena minyak bumi akan selalu tersedia di masa depan"
+   },
+   "kunci": "B",
+   "pembahasan": {
+    "A": "Salah — mempercepat eksploitasi justru membuat cadangan minyak bumi yang sudah diperkirakan habis dalam waktu kurang dari 10 tahun menjadi lebih cepat habis lagi.",
+    "B": "Benar — mengembangkan energi terbarukan seperti surya, angin, dan panas bumi mengurangi ketergantungan pada minyak bumi yang cadangannya semakin menipis, sehingga menjadi solusi paling berkelanjutan menghadapi ancaman kelangkaan energi jangka panjang.",
+    "C": "Salah — menghentikan seluruh aktivitas industri adalah langkah ekstrem yang akan melumpuhkan perekonomian, bukan solusi yang realistis.",
+    "D": "Salah — mengimpor besar-besaran tanpa mengembangkan energi alternatif hanya memindahkan ketergantungan dari sumber domestik ke sumber luar negeri, bukan solusi jangka panjang yang mandiri.",
+    "E": "Salah — pernyataan ini bertentangan dengan fakta dalam ilustrasi bahwa cadangan minyak bumi terbatas dan diperkirakan habis, bukan tersedia selamanya."
+   }
+  },
+  {
+   "id": 7,
+   "subElemenKode": "UJIAN01",
+   "elemen": "Konsep Dasar Ilmu Ekonomi",
+   "subElemen": "1-3. Pengertian, Sebab & Inti Masalah Ekonomi",
+   "level": "Penalaran (reasoning)",
+   "bentukSoal": "Pilihan Ganda",
+   "indikator": "Menganalisis dampak kelangkaan pupuk terhadap petani",
+   "soal": "Menjelang musim tanam, sejumlah petani di suatu daerah kesulitan mendapatkan pupuk bersubsidi karena kuota yang ditetapkan pemerintah jauh lebih kecil dibanding kebutuhan riil di lapangan, menyebabkan sebagian petani terpaksa membeli pupuk nonsubsidi dengan harga jauh lebih mahal.\n\nKebijakan yang paling tepat untuk mengatasi kelangkaan pupuk bersubsidi tersebut dalam jangka panjang adalah ....",
+   "opsi": {
+    "A": "Menghapus seluruh subsidi pupuk agar tidak ada lagi kelangkaan",
+    "B": "Mengevaluasi dan menyesuaikan kuota subsidi berdasarkan data kebutuhan riil petani di lapangan, serta mendorong penggunaan pupuk organik alternatif",
+    "C": "Membiarkan petani mencari pupuk sendiri tanpa keterlibatan pemerintah",
+    "D": "Menaikkan harga pupuk nonsubsidi agar semua petani beralih ke pupuk bersubsidi",
+    "E": "Mengurangi luas lahan pertanian agar kebutuhan pupuk berkurang"
+   },
+   "kunci": "B",
+   "pembahasan": {
+    "A": "Salah — menghapus seluruh subsidi pupuk berisiko memberatkan petani kecil yang selama ini sangat bergantung pada harga pupuk yang terjangkau.",
+    "B": "Benar — mengevaluasi kuota berdasarkan data kebutuhan riil mengatasi akar masalah ketidaksesuaian antara pasokan dan kebutuhan di lapangan, sementara mendorong pupuk organik alternatif mengurangi ketergantungan petani pada pupuk bersubsidi yang kuotanya terbatas; kombinasi ini menjawab masalah secara jangka panjang.",
+    "C": "Salah — membiarkan petani mencari pupuk sendiri tanpa keterlibatan pemerintah berisiko memperberat kesulitan petani kecil dalam mengakses pupuk terjangkau.",
+    "D": "Salah — menaikkan harga pupuk nonsubsidi tidak menambah kuota pupuk bersubsidi yang memang terbatas, justru memberatkan petani yang belum kebagian subsidi.",
+    "E": "Salah — mengurangi luas lahan pertanian berisiko menurunkan produksi pangan nasional, bukan solusi untuk kelangkaan pupuk."
+   }
+  },
+  {
+   "id": 8,
+   "subElemenKode": "UJIAN01",
+   "elemen": "Konsep Dasar Ilmu Ekonomi",
+   "subElemen": "1-3. Pengertian, Sebab & Inti Masalah Ekonomi",
+   "level": "Penalaran (reasoning)",
+   "bentukSoal": "Pilihan Ganda",
+   "indikator": "Menganalisis kelangkaan bahan pangan akibat perubahan iklim",
+   "soal": "Produksi gandum global diperkirakan menurun akibat gelombang panas ekstrem dan pola curah hujan yang tidak menentu di sejumlah negara produsen utama, sementara kebutuhan pangan dunia terus meningkat seiring pertumbuhan populasi global.\n\nStrategi jangka panjang yang paling tepat bagi Indonesia untuk mengurangi risiko kelangkaan pangan akibat perubahan iklim global tersebut adalah ....",
+   "opsi": {
+    "A": "Bergantung sepenuhnya pada impor gandum tanpa mengembangkan sumber pangan alternatif",
+    "B": "Mengembangkan diversifikasi pangan lokal (seperti singkong, sagu, jagung) dan riset varietas tanaman tahan iklim ekstrem",
+    "C": "Menghentikan seluruh produksi pangan dalam negeri karena dianggap tidak efisien",
+    "D": "Membiarkan harga pangan naik tanpa upaya mitigasi apa pun",
+    "E": "Mengurangi jumlah penduduk agar kebutuhan pangan berkurang"
+   },
+   "kunci": "B",
+   "pembahasan": {
+    "A": "Salah — bergantung sepenuhnya pada impor gandum berisiko tinggi karena negara produsen utama juga mengalami penurunan produksi akibat perubahan iklim yang sama, sehingga pasokan impor pun ikut terancam.",
+    "B": "Benar — mengembangkan diversifikasi pangan lokal seperti singkong, sagu, dan jagung mengurangi ketergantungan pada satu jenis pangan (gandum) yang terdampak iklim, sementara riset varietas tahan iklim ekstrem membangun ketahanan pangan domestik yang lebih mandiri dalam jangka panjang.",
+    "C": "Salah — menghentikan produksi pangan dalam negeri justru memperbesar ketergantungan pada pasokan global yang juga sedang terancam perubahan iklim.",
+    "D": "Salah — membiarkan harga pangan naik tanpa mitigasi berisiko memperparah dampak kelangkaan pangan bagi masyarakat, terutama kelompok berpenghasilan rendah.",
+    "E": "Salah — mengurangi jumlah penduduk bukan solusi yang realistis maupun etis untuk mengatasi risiko ketahanan pangan akibat perubahan iklim."
+   }
+  },
+  {
+   "id": 9,
+   "subElemenKode": "UJIAN01",
+   "elemen": "Konsep Dasar Ilmu Ekonomi (Materi Pengayaan - di luar Kisi-Kisi Resmi Sub 1)",
+   "subElemen": "4. Pertanyaan Pokok Ekonomi",
+   "level": "Penalaran (reasoning)",
+   "bentukSoal": "PGK Kategori",
+   "indikator": "Menentukan benar/salah pernyataan tentang pertanyaan pokok ekonomi pada berbagai sistem ekonomi",
+   "soal": "Setiap sistem ekonomi, meskipun berbeda dalam cara pengambilan keputusan, tetap harus menjawab tiga pertanyaan pokok ekonomi yang sama: apa, bagaimana, dan untuk siapa barang dan jasa diproduksi.\n\nTentukan Benar atau Salah untuk setiap pernyataan berikut.",
+   "opsi": {
+    "A": "Pertanyaan “apa yang diproduksi” berkaitan dengan jenis dan jumlah barang/jasa yang dihasilkan agar sesuai kebutuhan masyarakat",
+    "B": "Pertanyaan “untuk siapa diproduksi” hanya relevan pada sistem ekonomi komando, tidak relevan pada sistem ekonomi pasar",
+    "C": "Pada sistem ekonomi pasar, jawaban atas tiga pertanyaan pokok umumnya ditentukan oleh mekanisme permintaan-penawaran, sedangkan pada sistem komando ditentukan oleh pemerintah pusat"
+   },
+   "kunci": "A. Benar, B. Salah, C. Benar",
+   "pembahasan": {
+    "A": "Benar — pertanyaan “apa yang diproduksi” memang menentukan jenis dan jumlah barang/jasa yang dihasilkan agar sesuai kebutuhan masyarakat dan sumber daya yang tersedia.",
+    "B": "Salah — pertanyaan “untuk siapa diproduksi” harus dijawab oleh SETIAP sistem ekonomi, termasuk sistem pasar (di mana jawabannya ditentukan oleh daya beli dan preferensi konsumen), bukan hanya sistem komando.",
+    "C": "Benar — ini mencerminkan perbedaan mendasar mekanisme pengambilan keputusan ekonomi: sistem pasar mengandalkan permintaan-penawaran, sedangkan sistem komando mengandalkan keputusan pemerintah pusat."
+   }
+  },
+  {
+   "id": 10,
+   "subElemenKode": "UJIAN01",
+   "elemen": "Konsep Dasar Ilmu Ekonomi (Materi Pengayaan - di luar Kisi-Kisi Resmi Sub 1)",
+   "subElemen": "4. Pertanyaan Pokok Ekonomi",
+   "level": "Pemahaman (knowing)",
+   "bentukSoal": "Pilihan Ganda",
+   "indikator": "Mengidentifikasi pertanyaan pokok ekonomi 'apa yang diproduksi'",
+   "soal": "Setiap sistem ekonomi, baik tradisional, pasar, komando, maupun campuran, harus menjawab pertanyaan mendasar tentang jenis dan jumlah barang serta jasa apa saja yang perlu dihasilkan agar sesuai dengan kebutuhan masyarakat dan sumber daya yang tersedia.\n\nPertanyaan pokok ekonomi yang dimaksud dalam ilustrasi tersebut adalah ....",
+   "opsi": {
+    "A": "When (kapan barang diproduksi)",
+    "B": "Where (di mana barang dipasarkan)",
+    "C": "What (apa yang akan diproduksi)",
+    "D": "How (bagaimana cara memproduksi)",
+    "E": "For whom (untuk siapa diproduksi)"
+   },
+   "kunci": "C",
+   "pembahasan": {
+    "A": "Salah — “kapan” bukan salah satu dari tiga pertanyaan pokok ekonomi (apa, bagaimana, untuk siapa).",
+    "B": "Salah — “di mana” juga bukan bagian dari tiga pertanyaan pokok ekonomi.",
+    "C": "Benar — ilustrasi menanyakan jenis dan jumlah barang/jasa yang perlu dihasilkan, yaitu pertanyaan “apa yang diproduksi” (what).",
+    "D": "Salah — “bagaimana cara memproduksi” berkaitan dengan metode/teknologi produksi, bukan jenis barangnya.",
+    "E": "Salah — “untuk siapa diproduksi” berkaitan dengan target konsumen, bukan jenis barangnya."
+   }
+  },
+  {
+   "id": 11,
+   "subElemenKode": "UJIAN01",
+   "elemen": "Konsep Dasar Ilmu Ekonomi (Materi Pengayaan - di luar Kisi-Kisi Resmi Sub 1)",
+   "subElemen": "4. Pertanyaan Pokok Ekonomi",
+   "level": "Pemahaman (knowing)",
+   "bentukSoal": "Pilihan Ganda",
+   "indikator": "Mengidentifikasi pertanyaan pokok ekonomi 'bagaimana cara memproduksi'",
+   "soal": "Sebuah perusahaan sepatu memutuskan menggunakan mesin berteknologi otomatis dibandingkan tenaga kerja manual karena dinilai lebih efisien dan menghasilkan kualitas produk yang lebih konsisten.\n\nKeputusan tersebut berkaitan dengan pertanyaan pokok ekonomi tentang ....",
+   "opsi": {
+    "A": "Kapan barang diproduksi",
+    "B": "Berapa banyak barang yang diproduksi",
+    "C": "Apa yang diproduksi",
+    "D": "Bagaimana cara memproduksi",
+    "E": "Untuk siapa barang diproduksi"
+   },
+   "kunci": "D",
+   "pembahasan": {
+    "A": "Salah — ilustrasi tidak membahas waktu produksi.",
+    "B": "Salah — ilustrasi tidak membahas jumlah barang yang diproduksi.",
+    "C": "Salah — ilustrasi tidak membahas jenis barang (sepatu) yang akan diproduksi, melainkan cara memproduksinya.",
+    "D": "Benar — pemilihan antara mesin otomatis dan tenaga kerja manual adalah keputusan tentang metode dan teknologi produksi, yaitu pertanyaan “bagaimana cara memproduksi”.",
+    "E": "Salah — ilustrasi tidak membahas target konsumen sepatu tersebut."
+   }
+  },
+  {
+   "id": 12,
+   "subElemenKode": "UJIAN01",
+   "elemen": "Konsep Dasar Ilmu Ekonomi (Materi Pengayaan - di luar Kisi-Kisi Resmi Sub 1)",
+   "subElemen": "4. Pertanyaan Pokok Ekonomi",
+   "level": "Pemahaman (knowing)",
+   "bentukSoal": "Pilihan Ganda",
+   "indikator": "Mengidentifikasi pertanyaan pokok ekonomi 'untuk siapa diproduksi'",
+   "soal": "Produsen pakaian anak menetapkan target pasarnya adalah keluarga kelas menengah dengan anak usia 3-10 tahun, sehingga desain, ukuran, dan harga produk disesuaikan dengan daya beli serta kebutuhan segmen tersebut.\n\nPertimbangan produsen tersebut menjawab pertanyaan pokok ekonomi tentang ....",
+   "opsi": {
+    "A": "Berapa jumlah barang yang diproduksi",
+    "B": "Di mana barang akan dipasarkan",
+    "C": "Apa yang diproduksi",
+    "D": "Bagaimana cara memproduksi",
+    "E": "Untuk siapa barang diproduksi"
+   },
+   "kunci": "E",
+   "pembahasan": {
+    "A": "Salah — ilustrasi tidak membahas jumlah produksi.",
+    "B": "Salah — ilustrasi tidak membahas lokasi pemasaran.",
+    "C": "Salah — ilustrasi bukan tentang menentukan jenis barang secara umum, melainkan tentang siapa target pembelinya.",
+    "D": "Salah — ilustrasi tidak membahas metode/teknologi produksi.",
+    "E": "Benar — penyesuaian desain, ukuran, dan harga dengan daya beli serta kebutuhan segmen keluarga menengah adalah keputusan tentang “untuk siapa barang diproduksi”."
+   }
+  },
+  {
+   "id": 13,
+   "subElemenKode": "UJIAN01",
+   "elemen": "Konsep Dasar Ilmu Ekonomi (Materi Pengayaan - di luar Kisi-Kisi Resmi Sub 1)",
+   "subElemen": "4. Pertanyaan Pokok Ekonomi",
+   "level": "Penerapan (applying)",
+   "bentukSoal": "Pilihan Ganda",
+   "indikator": "Menerapkan konsep tiga pertanyaan pokok ekonomi pada kasus UMKM",
+   "soal": "UMKM “Kriya Nusantara” mengambil tiga keputusan sekaligus: (1) memilih memproduksi tas anyaman rotan karena permintaan ekspor tinggi; (2) menggunakan tenaga perajin lokal dengan teknik anyam tradisional, bukan mesin pabrik; (3) menetapkan desain minimalis modern untuk menyasar konsumen muda perkotaan.\n\nPasangan keputusan dan pertanyaan pokok ekonomi yang tepat adalah ....",
+   "opsi": {
+    "A": "(1) apa, (2) bagaimana, (3) untuk siapa",
+    "B": "(1) bagaimana, (2) apa, (3) untuk siapa",
+    "C": "(1) apa, (2) untuk siapa, (3) bagaimana",
+    "D": "(1) untuk siapa, (2) apa, (3) bagaimana",
+    "E": "(1) untuk siapa, (2) bagaimana, (3) apa"
+   },
+   "kunci": "A",
+   "pembahasan": {
+    "A": "Benar — (1) memilih memproduksi tas rotan = apa; (2) memakai perajin lokal dengan teknik tradisional dibanding mesin pabrik = bagaimana; (3) desain untuk konsumen muda perkotaan = untuk siapa.",
+    "B": "Salah — urutan pertanyaan pokok tertukar; keputusan (1) sebenarnya menjawab “apa”, bukan “bagaimana”.",
+    "C": "Salah — keputusan (2) sebenarnya menjawab “bagaimana” (metode produksi), bukan “untuk siapa”.",
+    "D": "Salah — keputusan (1) sebenarnya menjawab “apa”, bukan “untuk siapa”.",
+    "E": "Salah — seluruh urutan tertukar dari pasangan yang tepat."
+   }
+  },
+  {
+   "id": 14,
+   "subElemenKode": "UJIAN01",
+   "elemen": "Konsep Dasar Ilmu Ekonomi (Materi Pengayaan - di luar Kisi-Kisi Resmi Sub 1)",
+   "subElemen": "4. Pertanyaan Pokok Ekonomi",
+   "level": "Penerapan (applying)",
+   "bentukSoal": "Pilihan Ganda",
+   "indikator": "Menerapkan tiga pertanyaan pokok ekonomi pada kebijakan pemerintah",
+   "soal": "Pemerintah suatu daerah merancang program swasembada pangan dengan tiga keputusan: menetapkan jagung sebagai komoditas prioritas, mendorong petani menggunakan teknologi pertanian presisi, serta mengutamakan hasil panen untuk kebutuhan pasar domestik sebelum diekspor.\n\nKetiga keputusan tersebut secara berurutan menjawab pertanyaan pokok ekonomi ....",
+   "opsi": {
+    "A": "Apa, untuk siapa, bagaimana",
+    "B": "Untuk siapa, apa, bagaimana",
+    "C": "Untuk siapa, bagaimana, apa",
+    "D": "Apa, bagaimana, untuk siapa",
+    "E": "Bagaimana, apa, untuk siapa"
+   },
+   "kunci": "D",
+   "pembahasan": {
+    "A": "Salah — urutan tertukar; keputusan pertama (menetapkan jagung) menjawab “apa”, bukan sebagaimana disusun di opsi ini.",
+    "B": "Salah — urutan tertukar dari pasangan yang tepat.",
+    "C": "Salah — urutan tertukar dari pasangan yang tepat.",
+    "D": "Benar — menetapkan jagung sebagai komoditas prioritas = apa; mendorong teknologi pertanian presisi = bagaimana; mengutamakan hasil panen untuk pasar domestik dahulu = untuk siapa.",
+    "E": "Salah — urutan tertukar dari pasangan yang tepat."
+   }
+  },
+  {
+   "id": 15,
+   "subElemenKode": "UJIAN01",
+   "elemen": "Konsep Dasar Ilmu Ekonomi (Materi Pengayaan - di luar Kisi-Kisi Resmi Sub 1)",
+   "subElemen": "4. Pertanyaan Pokok Ekonomi",
+   "level": "Penalaran (reasoning)",
+   "bentukSoal": "Pilihan Ganda",
+   "indikator": "Menganalisis alasan keterkaitan keputusan produksi dengan pertanyaan pokok 'bagaimana'",
+   "soal": "Pabrik tekstil “Sinar Abadi” dihadapkan pada pilihan: tetap menggunakan mesin tenun manual yang menyerap banyak tenaga kerja, atau beralih ke mesin otomatis yang menekan biaya produksi tetapi berisiko mem-PHK sebagian karyawan.\n\nKeputusan perusahaan dalam kasus ini paling tepat dikaitkan dengan pertanyaan pokok ekonomi “bagaimana cara memproduksi”, sebab ....",
+   "opsi": {
+    "A": "Perusahaan sedang menentukan jenis barang yang akan diproduksi untuk konsumen",
+    "B": "Perusahaan sedang mempertimbangkan metode dan teknologi produksi yang paling efisien",
+    "C": "Perusahaan sedang menentukan target pasar yang akan dilayani",
+    "D": "Perusahaan sedang menentukan lokasi pemasaran produk tekstil",
+    "E": "Perusahaan sedang menentukan harga jual produk kepada konsumen"
+   },
+   "kunci": "B",
+   "pembahasan": {
+    "A": "Salah — perusahaan tidak sedang menentukan jenis barang yang diproduksi, melainkan metode produksinya.",
+    "B": "Benar — pilihan antara mesin tenun manual dan mesin otomatis adalah pertimbangan tentang metode dan teknologi produksi yang paling efisien, yaitu pertanyaan “bagaimana cara memproduksi”.",
+    "C": "Salah — ilustrasi tidak membahas target pasar tekstil tersebut.",
+    "D": "Salah — ilustrasi tidak membahas lokasi pemasaran.",
+    "E": "Salah — ilustrasi tidak membahas harga jual produk."
+   }
+  },
+  {
+   "id": 16,
+   "subElemenKode": "UJIAN01",
+   "elemen": "Konsep Dasar Ilmu Ekonomi",
+   "subElemen": "5. Kelangkaan (Scarcity) & Pilihan (Choice)/Biaya Peluang",
+   "level": "Penalaran (reasoning)",
+   "bentukSoal": "PGK Kategori",
+   "indikator": "Menentukan benar/salah pernyataan tentang kelangkaan dan biaya peluang",
+   "soal": "Setelah pandemi, harga chip semikonduktor dunia melonjak tajam akibat gangguan rantai pasok, sementara permintaan dari industri otomotif dan elektronik terus meningkat. Beberapa pabrikan mobil terpaksa mengurangi produksi karena tidak mendapat pasokan chip yang cukup, meski permintaan mobil dari konsumen sedang tinggi.\n\nTentukan Benar atau Salah untuk setiap pernyataan berikut terkait ilustrasi tersebut.",
+   "opsi": {
+    "A": "Kelangkaan chip semikonduktor terjadi karena permintaan yang tinggi berhadapan dengan pasokan yang terbatas akibat gangguan rantai pasok",
+    "B": "Biaya peluang bagi pabrikan mobil yang mengurangi produksi adalah unit mobil yang gagal terjual akibat kekurangan pasokan chip",
+    "C": "Karena bersifat elektronik, chip semikonduktor tidak termasuk sumber daya yang bisa mengalami kelangkaan"
+   },
+   "kunci": "A. Benar, B. Benar, C. Salah",
+   "pembahasan": {
+    "A": "Benar — permintaan chip dari industri otomotif dan elektronik terus meningkat sementara pasokannya terganggu akibat gangguan rantai pasok pascapandemi; ketimpangan antara kebutuhan tinggi dan pasokan terbatas inilah inti dari kelangkaan.",
+    "B": "Benar — karena kekurangan chip, pabrikan terpaksa mengurangi produksi meski permintaan mobil dari konsumen sedang tinggi, sehingga mereka kehilangan potensi penjualan mobil yang seharusnya bisa laku; itulah biaya peluang dari keputusan mengurangi produksi.",
+    "C": "Salah — sifat elektronik suatu barang tidak membebaskannya dari kelangkaan; selama jumlah yang tersedia terbatas sementara kebutuhan akan barang itu besar (seperti chip pada ilustrasi ini), barang tersebut tetap bisa mengalami kelangkaan."
+   }
+  },
+  {
+   "id": 17,
+   "subElemenKode": "UJIAN01",
+   "elemen": "Konsep Dasar Ilmu Ekonomi",
+   "subElemen": "5. Kelangkaan (Scarcity) & Pilihan (Choice)/Biaya Peluang",
+   "level": "Penalaran (reasoning)",
+   "bentukSoal": "PGK MCMA",
+   "indikator": "Menganalisis penerapan biaya peluang dalam keputusan bisnis",
+   "soal": "Bu Wulan memiliki toko kelontong dengan laba Rp5.000.000,00/bulan. Ia ditawari menjadi karyawan tetap di sebuah perusahaan dengan gaji Rp6.000.000,00/bulan plus tunjangan kesehatan senilai Rp500.000,00/bulan. Jika menerima tawaran itu, ia harus menutup tokonya.\n\nManakah pernyataan yang tepat terkait biaya peluang dalam kasus Bu Wulan? (Jawaban benar lebih dari satu)",
+   "opsi": {
+    "A": "Jika Bu Wulan tetap membuka toko, biaya peluangnya adalah Rp6.500.000,00 per bulan",
+    "B": "Jika Bu Wulan menerima tawaran kerja, biaya peluangnya adalah Rp5.000.000,00 per bulan",
+    "C": "Total penghasilan sebagai karyawan (termasuk tunjangan) lebih besar dibanding laba toko",
+    "D": "Biaya peluang selalu diukur hanya dari selisih uang tunai, tanpa memperhitungkan tunjangan non-tunai",
+    "E": "Secara nilai ekonomis, menerima tawaran kerja memberikan hasil bersih lebih tinggi dibanding mempertahankan toko"
+   },
+   "kunci": "B, C, dan E",
+   "pembahasan": {
+    "A": "Salah — meski angka Rp6.500.000,00 memang sama dengan total penghasilan sebagai karyawan (gaji Rp6.000.000,00 + tunjangan Rp500.000,00), pernyataan ini menilai biaya peluang dari arah tetap membuka toko, padahal fokus soal ini adalah menilai konsekuensi jika Bu Wulan beralih menjadi karyawan (sebagaimana dijelaskan konsisten pada opsi B); karena arah penalarannya tidak sejalan dengan opsi-opsi yang benar, pernyataan ini tidak termasuk jawaban yang tepat.",
+    "B": "Benar —<br>Langkah 1: bila Bu Wulan menerima tawaran kerja, ia harus menutup tokonya, sehingga alternatif yang dilepas adalah laba toko.<br>Langkah 2: dari ilustrasi, laba toko yang ditinggalkan adalah Rp5.000.000,00 per bulan.<br>Jadi biaya peluang menerima tawaran kerja adalah Rp5.000.000,00 per bulan, sesuai pernyataan ini.",
+    "C": "Benar —<br>Langkah 1: jumlahkan seluruh komponen penghasilan sebagai karyawan: gaji Rp6.000.000,00 ditambah tunjangan kesehatan Rp500.000,00.<br>Langkah 2: Rp6.000.000,00 + Rp500.000,00 = Rp6.500.000,00.<br>Langkah 3: bandingkan dengan laba toko Rp5.000.000,00; karena Rp6.500.000,00 lebih besar dari Rp5.000.000,00, total penghasilan karyawan memang lebih besar, sesuai pernyataan ini.",
+    "D": "Salah — pada kasus Bu Wulan justru terlihat sebaliknya: tunjangan kesehatan senilai Rp500.000,00 tetap perlu dihitung sebagai bagian dari nilai ekonomis yang dikorbankan/diperoleh karena secara nyata menambah manfaat total yang diterima; mengabaikan komponen non-tunai seperti ini membuat perhitungan biaya peluang menjadi tidak akurat.",
+    "E": "Benar —<br>Langkah 1: bandingkan total nilai ekonomis dari dua pilihan: laba toko Rp5.000.000,00 versus total kompensasi kerja Rp6.500.000,00 (gaji + tunjangan).<br>Langkah 2: karena Rp6.500.000,00 lebih besar dari Rp5.000.000,00, menerima tawaran kerja memberi hasil bersih Rp1.500.000,00 lebih tinggi setiap bulan.<br>Jadi secara nilai ekonomis, menerima tawaran kerja memang lebih menguntungkan, sesuai pernyataan ini."
+   }
+  },
+  {
+   "id": 18,
+   "subElemenKode": "UJIAN01",
+   "elemen": "Konsep Dasar Ilmu Ekonomi",
+   "subElemen": "5. Kelangkaan (Scarcity) & Pilihan (Choice)/Biaya Peluang",
+   "level": "Pemahaman (knowing)",
+   "bentukSoal": "Pilihan Ganda",
+   "indikator": "Mengidentifikasi kebutuhan berdasarkan tingkat kepentingan",
+   "soal": "Pak Hendra membutuhkan obat rutin untuk penyakit jantungnya, sekaligus ingin membeli sepeda motor baru untuk menggantikan motor lamanya yang masih berfungsi baik.\n\nBerdasarkan tingkat kepentingannya, kebutuhan yang harus didahulukan Pak Hendra adalah ....",
+   "opsi": {
+    "A": "Membeli sepeda motor baru karena menunjang mobilitas",
+    "B": "Membeli obat rutin karena menyangkut kebutuhan primer (kesehatan)",
+    "C": "Keduanya harus dipenuhi bersamaan tanpa urutan prioritas",
+    "D": "Menunda keduanya sampai ada penghasilan tambahan",
+    "E": "Membeli motor baru lebih dulu karena nilainya lebih besar"
+   },
+   "kunci": "B",
+   "pembahasan": {
+    "A": "Salah — motor lama Pak Hendra masih berfungsi baik, sehingga motor baru hanya memenuhi keinginan/kenyamanan, bukan kebutuhan mendesak.",
+    "B": "Benar — obat rutin untuk jantung menyangkut kesehatan (kebutuhan primer) yang jika ditunda berisiko fatal bagi nyawa, sehingga harus didahulukan dibanding motor baru.",
+    "C": "Salah — dengan sumber daya (uang) yang terbatas, Pak Hendra tetap harus menyusun prioritas, bukan memenuhi keduanya sekaligus tanpa urutan.",
+    "D": "Salah — menunda pembelian obat rutin untuk penyakit jantung berisiko besar terhadap keselamatan, sehingga tidak bisa ditunda seperti motor baru.",
+    "E": "Salah — besar kecilnya nilai barang (motor lebih mahal dari obat) bukan patokan prioritas; yang menentukan adalah tingkat urgensi/kepentingan kebutuhan itu bagi keselamatan."
+   }
+  },
+  {
+   "id": 19,
+   "subElemenKode": "UJIAN01",
+   "elemen": "Konsep Dasar Ilmu Ekonomi",
+   "subElemen": "5. Kelangkaan (Scarcity) & Pilihan (Choice)/Biaya Peluang",
+   "level": "Penerapan (applying)",
+   "bentukSoal": "Pilihan Ganda",
+   "indikator": "Menghitung biaya peluang dari beberapa alternatif pilihan",
+   "soal": "Rehan memiliki modal Rp50.000.000,00 dan sedang mempertimbangkan tiga pilihan penggunaan dana tersebut selama satu tahun: (1) membuka usaha laundry dengan perkiraan laba bersih Rp9.000.000,00/tahun; (2) menyimpan di deposito bank dengan bunga Rp4.000.000,00/tahun; (3) membeli reksa dana dengan estimasi imbal hasil Rp6.500.000,00/tahun.\n\nJika Rehan memilih membuka usaha laundry, besar biaya peluang yang ia korbankan adalah ....",
+   "opsi": {
+    "A": "Rp4.000.000,00",
+    "B": "Rp6.500.000,00",
+    "C": "Rp9.000.000,00",
+    "D": "Rp10.500.000,00",
+    "E": "Rp13.000.000,00"
+   },
+   "kunci": "B",
+   "pembahasan": {
+    "A": "Salah — Rp4.000.000,00 adalah hasil dari deposito, alternatif dengan nilai LEBIH KECIL yang ditinggalkan; biaya peluang harus diambil dari alternatif terbaik yang dilepas, yaitu reksa dana, bukan deposito.",
+    "B": "Benar —<br>Langkah 1: catat semua pilihan dan hasilnya: usaha laundry Rp9.000.000,00, deposito Rp4.000.000,00, reksa dana Rp6.500.000,00.<br>Langkah 2: karena Rehan memilih laundry, biaya peluang adalah nilai TERBAIK dari alternatif yang ditinggalkan (bukan dijumlah semua) — bandingkan deposito Rp4.000.000,00 dengan reksa dana Rp6.500.000,00.<br>Langkah 3: nilai tertinggi di antara alternatif yang ditinggalkan adalah reksa dana Rp6.500.000,00.<br>Jadi biaya peluangnya adalah Rp6.500.000,00, sesuai opsi ini.",
+    "C": "Salah — Rp9.000.000,00 adalah hasil dari pilihan yang diambil (laundry) itu sendiri, padahal biaya peluang justru dihitung dari alternatif yang TIDAK dipilih.",
+    "D": "Salah — Rp10.500.000,00 tidak berasal dari perhitungan yang relevan (bukan salah satu nilai opsi maupun penjumlahan/selisih yang bermakna dalam soal ini).",
+    "E": "Salah — Rp13.000.000,00 adalah hasil menjumlahkan deposito (4jt) dan reksa dana (6,5jt); ini keliru karena biaya peluang hanya diambil dari SATU alternatif terbaik yang dilepas, bukan menjumlahkan semua alternatif yang tidak dipilih."
+   }
+  },
+  {
+   "id": 20,
+   "subElemenKode": "UJIAN01",
+   "elemen": "Konsep Dasar Ilmu Ekonomi",
+   "subElemen": "5. Kelangkaan (Scarcity) & Pilihan (Choice)/Biaya Peluang",
+   "level": "Penerapan (applying)",
+   "bentukSoal": "Pilihan Ganda",
+   "indikator": "Menerapkan konsep biaya peluang dalam keputusan pendidikan",
+   "soal": "Dimas lulus SMA dan dihadapkan pada dua pilihan: langsung bekerja sebagai staf toko dengan gaji Rp2.800.000,00/bulan, atau melanjutkan kuliah D3 selama 3 tahun tanpa penghasilan namun berpeluang mendapat gaji Rp5.500.000,00/bulan setelah lulus.\n\nJika Dimas memilih melanjutkan kuliah, biaya peluang yang ia tanggung selama satu bulan masa kuliah adalah ....",
+   "opsi": {
+    "A": "Rp0,00 karena kuliah tidak mengeluarkan biaya langsung",
+    "B": "Rp2.800.000,00, yaitu gaji yang tidak diperoleh karena tidak bekerja",
+    "C": "Rp5.500.000,00, yaitu gaji yang diharapkan setelah lulus",
+    "D": "Rp2.700.000,00, selisih antara gaji sebelum dan sesudah kuliah",
+    "E": "Rp8.300.000,00, gabungan kedua nilai gaji"
+   },
+   "kunci": "B",
+   "pembahasan": {
+    "A": "Salah — anggapan ini keliru karena biaya peluang tidak selalu berupa biaya yang dikeluarkan, melainkan nilai alternatif (di sini gaji bekerja) yang hilang karena tidak diambil.",
+    "B": "Benar —<br>Langkah 1: bandingkan dua pilihan Dimas: bekerja dengan gaji Rp2.800.000,00/bulan, atau kuliah tanpa penghasilan selama masa studi.<br>Langkah 2: karena Dimas memilih kuliah, satu-satunya alternatif yang ditinggalkan selama masa kuliah adalah gaji bekerja tersebut.<br>Langkah 3: nilai gaji yang hilang setiap bulan adalah Rp2.800.000,00.<br>Jadi biaya peluang selama satu bulan masa kuliah adalah Rp2.800.000,00, sesuai opsi ini.",
+    "C": "Salah — Rp5.500.000,00 adalah proyeksi gaji SETELAH LULUS, bukan biaya peluang selama masa kuliah yang ditanyakan soal ini.",
+    "D": "Salah — Rp2.700.000,00 (selisih 5,5jt - 2,8jt) bukan definisi biaya peluang; biaya peluang mengambil nilai PENUH alternatif yang hilang, bukan selisihnya.",
+    "E": "Salah — Rp8.300.000,00 adalah hasil menjumlahkan gaji sekarang dan gaji setelah lulus, padahal biaya peluang tidak dihitung dengan menjumlahkan dua nilai yang berbeda periode waktu."
+   }
+  },
+  {
+   "id": 21,
+   "subElemenKode": "UJIAN01",
+   "elemen": "Konsep Dasar Ilmu Ekonomi",
+   "subElemen": "5. Kelangkaan (Scarcity) & Pilihan (Choice)/Biaya Peluang",
+   "level": "Penerapan (applying)",
+   "bentukSoal": "Pilihan Ganda",
+   "indikator": "Menerapkan konsep biaya peluang pada keputusan penggunaan modal usaha",
+   "soal": "Seorang pemilik warung memiliki modal tambahan Rp10.000.000,00 dan mempertimbangkan dua opsi: menambah stok dagangan dengan estimasi keuntungan Rp1.800.000,00/bulan, atau merenovasi warung agar lebih menarik dengan estimasi peningkatan keuntungan Rp1.200.000,00/bulan.\n\nJika pemilik warung memilih menambah stok dagangan, biaya peluang yang dikorbankan adalah ....",
+   "opsi": {
+    "A": "Rp600.000,00",
+    "B": "Rp1.200.000,00",
+    "C": "Rp1.800.000,00",
+    "D": "Rp3.000.000,00",
+    "E": "Rp10.000.000,00"
+   },
+   "kunci": "B",
+   "pembahasan": {
+    "A": "Salah — Rp600.000,00 adalah selisih kedua nilai (1,8jt - 1,2jt), bukan definisi biaya peluang yang mengambil nilai PENUH alternatif yang dilepas.",
+    "B": "Benar —<br>Langkah 1: catat estimasi keuntungan kedua opsi: menambah stok dagangan Rp1.800.000,00/bulan dan merenovasi warung Rp1.200.000,00/bulan.<br>Langkah 2: karena pemilik warung memilih menambah stok dagangan, satu-satunya alternatif yang ditinggalkan adalah merenovasi warung.<br>Langkah 3: nilai alternatif yang ditinggalkan tersebut adalah Rp1.200.000,00.<br>Jadi biaya peluangnya adalah Rp1.200.000,00, sesuai opsi ini.",
+    "C": "Salah — Rp1.800.000,00 adalah nilai dari pilihan yang diambil (menambah stok) itu sendiri, bukan biaya peluangnya.",
+    "D": "Salah — Rp3.000.000,00 adalah hasil menjumlahkan kedua nilai keuntungan, padahal biaya peluang hanya diambil dari satu alternatif yang ditinggalkan.",
+    "E": "Salah — Rp10.000.000,00 adalah jumlah modal tambahan yang dimiliki, bukan nilai keuntungan dari alternatif yang ditinggalkan, sehingga bukan biaya peluang yang tepat."
+   }
+  },
+  {
+   "id": 22,
+   "subElemenKode": "UJIAN01",
+   "elemen": "Konsep Dasar Ilmu Ekonomi",
+   "subElemen": "5. Kelangkaan (Scarcity) & Pilihan (Choice)/Biaya Peluang",
+   "level": "Penerapan (applying)",
+   "bentukSoal": "Pilihan Ganda",
+   "indikator": "Menerapkan konsep biaya peluang pada keputusan penggunaan dana simpanan",
+   "soal": "Koperasi sekolah memiliki dana kas Rp8.000.000,00 dan mempertimbangkan dua opsi penggunaan: menambah stok alat tulis untuk dijual dengan estimasi keuntungan Rp1.600.000,00/bulan, atau menyimpannya di deposito koperasi induk dengan bunga Rp1.100.000,00/bulan.\n\nJika koperasi sekolah memilih menambah stok alat tulis, biaya peluang yang dikorbankan adalah ....",
+   "opsi": {
+    "A": "Rp500.000,00",
+    "B": "Rp1.100.000,00",
+    "C": "Rp1.600.000,00",
+    "D": "Rp2.700.000,00",
+    "E": "Rp8.000.000,00"
+   },
+   "kunci": "B",
+   "pembahasan": {
+    "A": "Salah — Rp500.000,00 adalah selisih kedua nilai (1,6jt - 1,1jt), bukan definisi biaya peluang yang mengambil nilai PENUH alternatif yang ditinggalkan.",
+    "B": "Benar —<br>Langkah 1: catat estimasi hasil kedua opsi: menambah stok alat tulis Rp1.600.000,00/bulan dan deposito koperasi induk Rp1.100.000,00/bulan.<br>Langkah 2: karena koperasi sekolah memilih menambah stok alat tulis, satu-satunya alternatif yang ditinggalkan adalah menyimpan di deposito.<br>Langkah 3: nilai alternatif yang ditinggalkan tersebut adalah Rp1.100.000,00.<br>Jadi biaya peluangnya adalah Rp1.100.000,00, sesuai opsi ini.",
+    "C": "Salah — Rp1.600.000,00 adalah nilai dari pilihan yang diambil (menambah stok) itu sendiri, bukan biaya peluangnya.",
+    "D": "Salah — Rp2.700.000,00 adalah hasil menjumlahkan kedua nilai, padahal biaya peluang hanya diambil dari satu alternatif yang ditinggalkan.",
+    "E": "Salah — Rp8.000.000,00 adalah jumlah dana kas yang dimiliki koperasi, bukan nilai alternatif yang ditinggalkan, sehingga bukan biaya peluang yang tepat."
+   }
+  },
+  {
+   "id": 23,
+   "subElemenKode": "UJIAN01",
+   "elemen": "Konsep Dasar Ilmu Ekonomi",
+   "subElemen": "5. Kelangkaan (Scarcity) & Pilihan (Choice)/Biaya Peluang",
+   "level": "Penerapan (applying)",
+   "bentukSoal": "Pilihan Ganda",
+   "indikator": "Menerapkan konsep biaya peluang pada keputusan penggunaan armada transportasi",
+   "soal": "Perusahaan rental mobil memiliki satu unit mobil yang dapat disewakan untuk perjalanan wisata luar kota dengan pendapatan Rp1.800.000,00/hari, atau untuk layanan antar-jemput bandara dengan pendapatan Rp1.300.000,00/hari, namun tidak dapat digunakan untuk kedua layanan sekaligus dalam satu hari yang sama.\n\nJika perusahaan memilih menyewakan mobil untuk perjalanan wisata luar kota, biaya peluang yang dikorbankan adalah ....",
+   "opsi": {
+    "A": "Rp500.000,00",
+    "B": "Rp1.300.000,00",
+    "C": "Rp1.800.000,00",
+    "D": "Rp3.100.000,00",
+    "E": "Rp0,00 karena tetap memperoleh pendapatan"
+   },
+   "kunci": "B",
+   "pembahasan": {
+    "A": "Salah — Rp500.000,00 adalah selisih kedua nilai (1,8jt - 1,3jt), bukan definisi biaya peluang yang mengambil nilai PENUH alternatif yang ditinggalkan.",
+    "B": "Benar —<br>Langkah 1: catat pendapatan dari kedua opsi penyewaan: perjalanan wisata luar kota Rp1.800.000,00/hari dan layanan antar-jemput bandara Rp1.300.000,00/hari.<br>Langkah 2: karena perusahaan memilih menyewakan untuk perjalanan wisata, satu-satunya alternatif yang ditinggalkan adalah layanan antar-jemput bandara.<br>Langkah 3: nilai alternatif yang ditinggalkan tersebut adalah Rp1.300.000,00.<br>Jadi biaya peluangnya adalah Rp1.300.000,00, sesuai opsi ini.",
+    "C": "Salah — Rp1.800.000,00 adalah nilai dari pilihan yang diambil (wisata luar kota) itu sendiri, bukan biaya peluangnya.",
+    "D": "Salah — Rp3.100.000,00 adalah hasil menjumlahkan kedua nilai pendapatan, padahal biaya peluang hanya diambil dari satu alternatif yang ditinggalkan.",
+    "E": "Salah — biaya peluang tetap ada meski perusahaan memperoleh pendapatan dari perjalanan wisata, karena tetap ada Rp1.300.000,00 potensi pendapatan dari antar-jemput bandara yang dilepas."
+   }
+  },
+  {
+   "id": 24,
+   "subElemenKode": "UJIAN01",
+   "elemen": "Konsep Dasar Ilmu Ekonomi",
+   "subElemen": "Macam-macam Kebutuhan",
+   "level": "Pemahaman (knowing)",
+   "bentukSoal": "Pilihan Ganda",
+   "indikator": "Mengidentifikasi jenis kebutuhan berdasarkan sifatnya",
+   "soal": "Selain membutuhkan makanan bergizi dan tempat tinggal yang layak, Andi yang bekerja sebagai fotografer juga membutuhkan kamera profesional untuk menjalankan pekerjaannya sehari-hari.\n\nKebutuhan Andi akan kamera profesional tersebut tergolong kebutuhan ....",
+   "opsi": {
+    "A": "Primer, karena menyangkut kelangsungan hidup dasar",
+    "B": "Sekunder, karena bersifat pelengkap kenyamanan hidup",
+    "C": "Tersier, karena menunjukkan status sosial semata",
+    "D": "Kolektif, karena digunakan bersama orang lain",
+    "E": "Menurut waktu yang akan datang, karena tidak dibutuhkan segera"
+   },
+   "kunci": "B",
+   "pembahasan": {
+    "A": "Salah — kebutuhan primer berkaitan dengan kelangsungan hidup dasar seperti makanan, sandang, dan papan, sedangkan kamera bukan syarat mutlak untuk bertahan hidup.",
+    "B": "Benar — sebagai fotografer, kamera profesional menunjang pekerjaan dan produktivitas Andi sehari-hari; kebutuhan yang menunjang profesi/kenyamanan seperti ini tergolong kebutuhan sekunder.",
+    "C": "Salah — dalam ilustrasi, kamera dibutuhkan Andi untuk bekerja mencari nafkah, bukan sekadar untuk pamer status sosial.",
+    "D": "Salah — kamera digunakan sendiri oleh Andi untuk pekerjaannya, bukan dipakai bersama-sama dengan orang lain seperti fasilitas umum.",
+    "E": "Salah — kamera justru dibutuhkan Andi SEKARANG untuk menjalankan pekerjaannya sehari-hari, bukan untuk kebutuhan di masa mendatang."
+   }
+  },
+  {
+   "id": 25,
+   "subElemenKode": "UJIAN01",
+   "elemen": "Konsep Dasar Ilmu Ekonomi",
+   "subElemen": "Macam-macam Kebutuhan",
+   "level": "Pemahaman (knowing)",
+   "bentukSoal": "Pilihan Ganda",
+   "indikator": "Mengidentifikasi kebutuhan menurut subjeknya",
+   "soal": "Selain kebutuhan pribadinya seperti makanan dan pakaian, warga di sebuah kompleks perumahan bergotong royong mengumpulkan dana untuk membangun pos ronda dan memperbaiki jalan lingkungan yang rusak, karena dibutuhkan bersama oleh seluruh warga.\n\nKebutuhan akan pos ronda dan perbaikan jalan lingkungan tersebut tergolong kebutuhan ....",
+   "opsi": {
+    "A": "Individu, karena hanya dibutuhkan oleh sebagian warga",
+    "B": "Kolektif, karena dibutuhkan dan dinikmati bersama oleh seluruh warga di lingkungan tersebut",
+    "C": "Primer, karena menyangkut kelangsungan hidup dasar",
+    "D": "Rohani, karena berkaitan dengan kepuasan batin semata",
+    "E": "Menurut waktu yang akan datang, karena tidak dibutuhkan segera"
+   },
+   "kunci": "B",
+   "pembahasan": {
+    "A": "Salah — pos ronda dan jalan lingkungan dibutuhkan dan dinikmati bersama oleh SELURUH warga kompleks, bukan hanya sebagian orang saja.",
+    "B": "Benar — fasilitas yang dibangun secara gotong royong dan dimanfaatkan bersama oleh seluruh warga suatu lingkungan, seperti pos ronda dan jalan, tergolong kebutuhan kolektif.",
+    "C": "Salah — meski penting, pos ronda dan jalan bukan tergolong kebutuhan primer individu seperti makanan, sandang, dan papan.",
+    "D": "Salah — kebutuhan akan fasilitas fisik seperti pos ronda dan jalan bukan kebutuhan rohani/batin, melainkan kebutuhan fisik/fasilitas bersama.",
+    "E": "Salah — jalan yang rusak dan pos ronda ingin segera diperbaiki/dibangun warga sekarang, bukan untuk kebutuhan di masa mendatang."
+   }
+  },
+  {
+   "id": 26,
+   "subElemenKode": "UJIAN01",
+   "elemen": "Konsep Dasar Ilmu Ekonomi",
+   "subElemen": "Macam-macam Kebutuhan",
+   "level": "Pemahaman (knowing)",
+   "bentukSoal": "Pilihan Ganda",
+   "indikator": "Mengidentifikasi kebutuhan menurut sifatnya (jasmani dan rohani)",
+   "soal": "Setelah bekerja keras selama seminggu penuh, Pak Doni meluangkan waktu akhir pekan untuk beribadah dan bermeditasi agar hati dan pikirannya lebih tenang, selain juga memastikan kebutuhan makan dan istirahatnya tercukupi.\n\nKebutuhan Pak Doni untuk beribadah dan bermeditasi tersebut tergolong kebutuhan ....",
+   "opsi": {
+    "A": "Jasmani, karena berkaitan dengan kondisi fisik tubuh",
+    "B": "Rohani, karena berkaitan dengan ketenangan batin dan kepuasan psikis",
+    "C": "Primer, karena menyangkut kelangsungan hidup dasar semata",
+    "D": "Kolektif, karena dibutuhkan bersama orang banyak",
+    "E": "Sekarang, karena harus segera dipenuhi tanpa penundaan"
+   },
+   "kunci": "B",
+   "pembahasan": {
+    "A": "Salah — beribadah dan bermeditasi tidak berkaitan dengan kondisi fisik tubuh secara langsung, melainkan ketenangan batin dan pikiran.",
+    "B": "Benar — beribadah dan bermeditasi untuk menenangkan hati dan pikiran setelah bekerja keras berkaitan dengan kepuasan batin dan psikis, itulah ciri kebutuhan rohani.",
+    "C": "Salah — meski penting bagi kesejahteraan, kebutuhan rohani bukan tergolong kebutuhan primer dalam pengertian kelangsungan hidup fisik dasar seperti makan dan istirahat yang disebutkan terpisah dalam ilustrasi.",
+    "D": "Salah — ibadah dan meditasi dalam ilustrasi ini dilakukan Pak Doni secara individu, bukan kebutuhan yang dinikmati bersama banyak orang.",
+    "E": "Salah — pengelompokan ini bukan tentang kebutuhan menurut WAKTU pemenuhannya, melainkan menurut SIFATNYA (jasmani atau rohani)."
+   }
+  },
+  {
+   "id": 27,
+   "subElemenKode": "UJIAN01",
+   "elemen": "Konsep Dasar Ilmu Ekonomi",
+   "subElemen": "6 & 10. Macam Masalah Ekonomi & Contoh Penerapan",
+   "level": "Penalaran (reasoning)",
+   "bentukSoal": "PGK Kategori",
+   "indikator": "Menentukan benar/salah pernyataan tentang kegiatan ekonomi dalam rantai pasok makanan cepat saji",
+   "soal": "Restoran cepat saji \"Ayam Kriuk\" membeli ayam segar dari peternak mitra, mengolahnya menjadi produk ayam goreng siap saji di dapur restoran, menjualnya langsung kepada pelanggan yang datang atau memesan secara daring, dan pelanggan menikmati makanan tersebut di tempat maupun dibawa pulang.\n\nTentukan Benar atau Salah untuk setiap pernyataan berikut mengenai rantai kegiatan ekonomi restoran tersebut.",
+   "opsi": {
+    "A": "Mengolah ayam segar menjadi ayam goreng siap saji tergolong kegiatan produksi karena menciptakan nilai guna baru",
+    "B": "Penjualan langsung maupun pemesanan daring kepada pelanggan tergolong kegiatan distribusi barang/jasa",
+    "C": "Membeli ayam segar dari peternak mitra tergolong kegiatan konsumsi karena melibatkan transaksi jual beli"
+   },
+   "kunci": "A. Benar, B. Benar, C. Salah",
+   "pembahasan": {
+    "A": "Benar — mengolah ayam segar menjadi ayam goreng siap saji menciptakan nilai guna baru (dari bahan mentah menjadi makanan siap konsumsi), ciri utama kegiatan produksi.",
+    "B": "Benar — menjual kepada pelanggan yang datang langsung maupun melalui pesanan daring adalah cara menyalurkan produk kepada konsumen, ciri kegiatan distribusi.",
+    "C": "Salah — membeli ayam segar dari peternak mitra adalah pengadaan bahan baku untuk proses produksi restoran, bukan kegiatan konsumsi akhir; adanya transaksi jual beli tidak otomatis berarti kegiatan itu konsumsi."
+   }
+  },
+  {
+   "id": 28,
+   "subElemenKode": "UJIAN01",
+   "elemen": "Konsep Dasar Ilmu Ekonomi",
+   "subElemen": "6 & 10. Macam Masalah Ekonomi & Contoh Penerapan",
+   "level": "Pemahaman (knowing)",
+   "bentukSoal": "Pilihan Ganda",
+   "indikator": "Mengidentifikasi jenis kegiatan ekonomi berdasarkan ilustrasi",
+   "soal": "Koperasi Tani Makmur mengumpulkan hasil panen jagung dari para petani, mengeringkan dan mengemasnya menjadi tepung jagung siap konsumsi, kemudian menyalurkannya ke pasar swalayan di beberapa kota.\n\nKegiatan koperasi tersebut secara berurutan mencerminkan kegiatan ekonomi berupa ....",
+   "opsi": {
+    "A": "Konsumsi, distribusi, dan produksi",
+    "B": "Distribusi, produksi, dan konsumsi",
+    "C": "Produksi, distribusi, dan konsumsi",
+    "D": "Pengumpulan hasil panen (bahan baku), produksi, dan distribusi",
+    "E": "Produksi, konsumsi, dan distribusi"
+   },
+   "kunci": "D",
+   "pembahasan": {
+    "A": "Salah — ilustrasi tidak memiliki tahap konsumsi oleh koperasi sama sekali; koperasi hanya mengumpulkan, mengolah, dan menyalurkan, bukan memakai jagung untuk kebutuhan sendiri.",
+    "B": "Salah — distribusi (menyalurkan ke pasar) justru terjadi di tahap TERAKHIR pada ilustrasi, bukan di awal seperti urutan pada opsi ini.",
+    "C": "Salah — urutan ini melompati tahap pengumpulan bahan baku (jagung) sebagai titik awal, dan tidak ada kegiatan konsumsi yang dilakukan koperasi dalam ilustrasi.",
+    "D": "Benar — sesuai urutan pada ilustrasi: koperasi lebih dulu mengumpulkan jagung dari petani (bahan baku), lalu mengeringkan dan mengemasnya menjadi tepung (produksi), baru kemudian menyalurkannya ke pasar swalayan (distribusi); konsumsi dilakukan pembeli di pasar, di luar cakupan ilustrasi.",
+    "E": "Salah — ilustrasi berakhir pada penyaluran ke pasar (distribusi), bukan pada konsumsi; urutan pada opsi ini menempatkan konsumsi sebelum distribusi yang tidak sesuai."
+   }
+  },
+  {
+   "id": 29,
+   "subElemenKode": "UJIAN01",
+   "elemen": "Konsep Dasar Ilmu Ekonomi",
+   "subElemen": "6 & 10. Macam Masalah Ekonomi & Contoh Penerapan",
+   "level": "Pemahaman (knowing)",
+   "bentukSoal": "Pilihan Ganda",
+   "indikator": "Mengidentifikasi kegiatan distribusi",
+   "soal": "PT Sumber Segar menyalurkan hasil panen sayur dari petani mitra di dataran tinggi ke berbagai pasar swalayan di kota-kota besar menggunakan armada truk berpendingin agar kesegaran sayur tetap terjaga.\n\nKegiatan yang dilakukan PT Sumber Segar tersebut tergolong kegiatan ekonomi berupa ....",
+   "opsi": {
+    "A": "Produksi, karena mengolah sayur menjadi produk baru",
+    "B": "Distribusi, karena menyalurkan barang dari produsen ke konsumen/pasar",
+    "C": "Konsumsi, karena menggunakan truk berpendingin",
+    "D": "Investasi, karena memiliki armada truk",
+    "E": "Ekspor, karena melibatkan pengiriman antarkota"
+   },
+   "kunci": "B",
+   "pembahasan": {
+    "A": "Salah — PT Sumber Segar tidak mengubah bentuk sayur menjadi produk baru, ia hanya memindahkannya dari petani ke pasar.",
+    "B": "Benar — menyalurkan hasil panen sayur dari petani mitra ke pasar swalayan di berbagai kota adalah kegiatan menyalurkan barang dari produsen ke konsumen/pasar, ciri khas distribusi.",
+    "C": "Salah — truk berpendingin adalah sarana/alat untuk mendukung distribusi, penggunaannya bukan berarti kegiatan konsumsi.",
+    "D": "Salah — investasi bukan kategori kegiatan ekonomi dasar; memiliki armada truk hanyalah sarana penunjang kegiatan distribusi.",
+    "E": "Salah — pengiriman ke kota-kota besar dalam ilustrasi ini masih berada dalam negeri, sedangkan ekspor khusus merujuk pada pengiriman ke luar negeri."
+   }
+  },
+  {
+   "id": 30,
+   "subElemenKode": "UJIAN01",
+   "elemen": "Konsep Dasar Ilmu Ekonomi",
+   "subElemen": "6 & 10. Macam Masalah Ekonomi & Contoh Penerapan",
+   "level": "Pemahaman (knowing)",
+   "bentukSoal": "Pilihan Ganda",
+   "indikator": "Mengidentifikasi kegiatan ekonomi pada sektor pariwisata",
+   "soal": "Sebuah agen perjalanan wisata menyusun paket tur ke berbagai destinasi, memasarkannya kepada calon wisatawan melalui media sosial dan mitra travel, kemudian wisatawan yang tertarik membeli paket tersebut dan menikmati perjalanan wisatanya.\n\nKegiatan memasarkan paket tur melalui media sosial dan mitra travel tersebut tergolong kegiatan ekonomi berupa ....",
+   "opsi": {
+    "A": "Produksi, karena menciptakan destinasi wisata baru",
+    "B": "Distribusi, karena menyalurkan informasi dan menawarkan produk/jasa kepada calon konsumen",
+    "C": "Konsumsi, karena wisatawan menikmati perjalanan",
+    "D": "Investasi, karena menggunakan media sosial",
+    "E": "Produksi, karena melibatkan proses kreatif dalam pemasaran"
+   },
+   "kunci": "B",
+   "pembahasan": {
+    "A": "Salah — memasarkan paket tur tidak menciptakan destinasi wisata baru, melainkan menawarkan produk/jasa wisata yang sudah tersedia kepada calon konsumen.",
+    "B": "Benar — memasarkan paket tur melalui media sosial dan mitra travel adalah cara menyalurkan informasi dan menawarkan produk/jasa wisata dari agen kepada calon wisatawan, ciri khas kegiatan distribusi.",
+    "C": "Salah — menikmati perjalanan adalah kegiatan konsumsi yang dilakukan WISATAWAN, sedangkan pertanyaan berfokus pada kegiatan agen perjalanan saat memasarkan paketnya.",
+    "D": "Salah — investasi bukan kategori kegiatan ekonomi dasar; media sosial hanyalah sarana/kanal pemasaran.",
+    "E": "Salah — proses kreatif dalam memasarkan tetap bertujuan menyalurkan/menawarkan produk yang sudah ada kepada konsumen (distribusi), bukan menciptakan barang/jasa wisata baru (produksi)."
+   }
+  },
+  {
+   "id": 31,
+   "subElemenKode": "UJIAN01",
+   "elemen": "Konsep Dasar Ilmu Ekonomi",
+   "subElemen": "6 & 10. Macam Masalah Ekonomi & Contoh Penerapan",
+   "level": "Pemahaman (knowing)",
+   "bentukSoal": "Pilihan Ganda",
+   "indikator": "Mengidentifikasi kegiatan ekonomi dalam sektor logistik",
+   "soal": "Perusahaan ekspedisi \"Cepat Sampai\" mengumpulkan paket dari berbagai penjual daring, mengelompokkannya berdasarkan tujuan pengiriman, lalu mengantarkannya ke alamat pembeli di berbagai kota menggunakan armada kendaraan.\n\nKegiatan yang dilakukan perusahaan ekspedisi tersebut tergolong kegiatan ekonomi berupa ....",
+   "opsi": {
+    "A": "Produksi, karena mengubah bentuk barang yang dikirim",
+    "B": "Distribusi, karena menyalurkan barang dari penjual kepada pembeli di berbagai lokasi",
+    "C": "Konsumsi, karena menggunakan kendaraan untuk pengiriman",
+    "D": "Investasi, karena memiliki armada kendaraan",
+    "E": "Produksi, karena mengelompokkan paket berdasarkan tujuan"
+   },
+   "kunci": "B",
+   "pembahasan": {
+    "A": "Salah — perusahaan ekspedisi tidak mengubah bentuk atau wujud barang yang dikirim, hanya memindahkannya dari satu tempat ke tempat lain.",
+    "B": "Benar — mengumpulkan paket dari penjual daring dan mengantarkannya ke pembeli di berbagai kota adalah kegiatan menyalurkan barang dari satu pihak ke pihak lain, ciri khas kegiatan distribusi.",
+    "C": "Salah — penggunaan kendaraan adalah sarana pendukung kegiatan distribusi, bukan kegiatan konsumsi akhir.",
+    "D": "Salah — investasi bukan kategori kegiatan ekonomi dasar; armada kendaraan hanyalah sarana penunjang distribusi.",
+    "E": "Salah — mengelompokkan paket berdasarkan tujuan adalah bagian dari proses logistik (distribusi), bukan proses mengubah bentuk barang seperti pada produksi."
+   }
+  },
+  {
+   "id": 32,
+   "subElemenKode": "UJIAN01",
+   "elemen": "Konsep Dasar Ilmu Ekonomi",
+   "subElemen": "6 & 10. Macam Masalah Ekonomi & Contoh Penerapan",
+   "level": "Pemahaman (knowing)",
+   "bentukSoal": "Pilihan Ganda",
+   "indikator": "Mengidentifikasi kegiatan ekonomi pada sektor pendidikan nonformal",
+   "soal": "Sebuah lembaga bimbingan belajar menyusun modul pembelajaran, merekrut tentor berpengalaman, dan menawarkan program bimbingan kepada siswa yang ingin mempersiapkan diri menghadapi ujian, dengan biaya pendaftaran tertentu.\n\nKegiatan lembaga bimbingan belajar menyusun modul dan menyelenggarakan program bimbingan tersebut tergolong kegiatan ekonomi berupa ....",
+   "opsi": {
+    "A": "Distribusi, karena menyalurkan modul kepada siswa",
+    "B": "Produksi jasa, karena menciptakan layanan pendidikan yang memiliki nilai guna dan ekonomis bagi siswa",
+    "C": "Konsumsi, karena siswa membayar biaya pendaftaran",
+    "D": "Investasi, karena menggunakan modul dan tentor berpengalaman",
+    "E": "Distribusi, karena tentor direkrut dari berbagai daerah"
+   },
+   "kunci": "B",
+   "pembahasan": {
+    "A": "Salah — menyusun modul dan menyelenggarakan bimbingan adalah proses MENCIPTAKAN layanan, bukan sekadar menyalurkan modul yang sudah jadi ke siswa.",
+    "B": "Benar — menyusun modul pembelajaran dan menyediakan tentor berpengalaman menciptakan layanan (peningkatan kompetensi siswa) yang bernilai guna dan ekonomis, ciri utama produksi jasa.",
+    "C": "Salah — membayar biaya pendaftaran adalah tindakan konsumen (siswa), sedangkan pertanyaan ini berfokus pada kegiatan LEMBAGA bimbingan itu sendiri.",
+    "D": "Salah — investasi bukan kategori kegiatan ekonomi dasar; modul dan tentor adalah sarana untuk menghasilkan produksi jasa.",
+    "E": "Salah — merekrut tentor adalah bagian dari PERSIAPAN produksi jasa, bukan kegiatan menyalurkan barang seperti distribusi."
+   }
+  },
+  {
+   "id": 33,
+   "subElemenKode": "UJIAN01",
+   "elemen": "Konsep Dasar Ilmu Ekonomi",
+   "subElemen": "6 & 10. Macam Masalah Ekonomi & Contoh Penerapan",
+   "level": "Penalaran (reasoning)",
+   "bentukSoal": "Pilihan Ganda",
+   "indikator": "Menganalisis penerapan prinsip ekonomi dalam kegiatan konsumsi",
+   "soal": "Sebelum berbelanja bulanan, Rani selalu membuat daftar kebutuhan, membandingkan harga di beberapa toko daring, dan memanfaatkan promo yang tersedia agar pengeluarannya tetap sesuai anggaran tanpa mengurangi kualitas kebutuhan yang harus dipenuhi.\n\nKebiasaan Rani tersebut mencerminkan penerapan ....",
+   "opsi": {
+    "A": "Motif ekonomi untuk mencari keuntungan",
+    "B": "Prinsip ekonomi konsumen, yaitu memperoleh manfaat maksimal dengan pengorbanan tertentu",
+    "C": "Kegiatan distribusi barang kebutuhan pokok",
+    "D": "Kelangkaan sumber daya yang dialami Rani",
+    "E": "Motif sosial dalam pemenuhan kebutuhan"
+   },
+   "kunci": "B",
+   "pembahasan": {
+    "A": "Salah — mencari keuntungan adalah motif pelaku usaha yang menjual barang/jasa, sedangkan Rani berperan sebagai pembeli/konsumen dalam ilustrasi ini.",
+    "B": "Benar — membuat daftar kebutuhan, membandingkan harga, dan memanfaatkan promo adalah cara memperoleh manfaat/kebutuhan maksimal dengan pengorbanan uang yang seminimal mungkin; itulah prinsip ekonomi dari sisi konsumen.",
+    "C": "Salah — Rani berbelanja untuk dirinya sendiri sebagai konsumen, bukan menyalurkan barang kepada pihak lain seperti pada kegiatan distribusi.",
+    "D": "Salah — ilustrasi menggambarkan sikap cermat berbelanja sesuai anggaran, bukan menceritakan kondisi kelangkaan sumber daya yang dialami Rani.",
+    "E": "Salah — kebiasaan ini murni untuk mengelola kebutuhan pribadinya sendiri, tidak ada unsur menolong pihak lain seperti pada motif sosial."
+   }
+  },
+  {
+   "id": 34,
+   "subElemenKode": "UJIAN01",
+   "elemen": "Konsep Dasar Ilmu Ekonomi (Materi Pengayaan - di luar Kisi-Kisi Resmi Sub 1)",
+   "subElemen": "7. Sistem Ekonomi",
+   "level": "Penalaran (reasoning)",
+   "bentukSoal": "PGK Kategori",
+   "indikator": "Menentukan benar/salah pernyataan tentang sistem ekonomi campuran",
+   "soal": "Sistem ekonomi campuran, seperti yang diterapkan di Indonesia, berupaya mengombinasikan kebebasan pasar dengan intervensi pemerintah untuk mencegah kegagalan pasar dan menjaga kesejahteraan masyarakat.\n\nTentukan Benar atau Salah untuk setiap pernyataan berikut.",
+   "opsi": {
+    "A": "Sistem ekonomi campuran memberikan kebebasan penuh kepada swasta tanpa batasan apa pun dari pemerintah",
+    "B": "Pada sistem ekonomi campuran, pemerintah dapat menetapkan kebijakan harga atau subsidi untuk melindungi masyarakat berpenghasilan rendah",
+    "C": "Sistem ekonomi campuran hanya dapat diterapkan oleh negara yang menganut ideologi sosialis"
+   },
+   "kunci": "A. Salah, B. Benar, C. Salah",
+   "pembahasan": {
+    "A": "Salah — justru sebaliknya, ciri utama sistem ekonomi campuran adalah pemerintah TETAP mengatur/mengintervensi pasar, bukan memberi kebebasan penuh tanpa batasan.",
+    "B": "Benar — kebijakan harga atau subsidi bagi masyarakat berpenghasilan rendah adalah salah satu bentuk nyata intervensi pemerintah dalam sistem ekonomi campuran.",
+    "C": "Salah — sistem ekonomi campuran diterapkan oleh berbagai negara dengan beragam ideologi, termasuk Indonesia yang berideologi Pancasila, bukan eksklusif untuk negara sosialis."
+   }
+  },
+  {
+   "id": 35,
+   "subElemenKode": "UJIAN01",
+   "elemen": "Konsep Dasar Ilmu Ekonomi (Materi Pengayaan - di luar Kisi-Kisi Resmi Sub 1)",
+   "subElemen": "7. Sistem Ekonomi",
+   "level": "Pemahaman (knowing)",
+   "bentukSoal": "Pilihan Ganda",
+   "indikator": "Mengidentifikasi ciri sistem ekonomi tradisional",
+   "soal": "Masyarakat suatu suku pedalaman masih mengandalkan berburu dan berladang sesuai kebiasaan turun-temurun. Kegiatan produksi dan distribusi barang dilakukan berdasarkan adat istiadat, tanpa campur tangan pasar modern maupun pemerintah pusat.\n\nSistem ekonomi yang diterapkan masyarakat tersebut adalah sistem ekonomi ....",
+   "opsi": {
+    "A": "Pasar",
+    "B": "Komando",
+    "C": "Campuran",
+    "D": "Liberal murni",
+    "E": "Tradisional"
+   },
+   "kunci": "E",
+   "pembahasan": {
+    "A": "Salah — sistem pasar mengandalkan mekanisme harga, sedangkan ilustrasi menyebut kegiatan ekonomi diatur oleh adat istiadat.",
+    "B": "Salah — sistem komando dikendalikan pemerintah pusat, sedangkan ilustrasi menyebutkan tidak ada campur tangan pemerintah pusat.",
+    "C": "Salah — sistem campuran melibatkan pasar dan pemerintah sekaligus, tidak sesuai ilustrasi yang murni berbasis adat.",
+    "D": "Salah — “liberal murni” adalah istilah lain untuk sistem pasar, sehingga alasannya sama dengan opsi A.",
+    "E": "Benar — kegiatan ekonomi berdasarkan kebiasaan turun-temurun dan adat istiadat, tanpa pasar modern maupun pemerintah pusat, adalah ciri khas sistem ekonomi tradisional."
+   }
+  },
+  {
+   "id": 36,
+   "subElemenKode": "UJIAN01",
+   "elemen": "Konsep Dasar Ilmu Ekonomi (Materi Pengayaan - di luar Kisi-Kisi Resmi Sub 1)",
+   "subElemen": "7. Sistem Ekonomi",
+   "level": "Pemahaman (knowing)",
+   "bentukSoal": "Pilihan Ganda",
+   "indikator": "Mengidentifikasi ciri sistem ekonomi pasar",
+   "soal": "Dalam suatu negara, harga barang, jenis produksi, dan alokasi sumber daya sepenuhnya ditentukan oleh interaksi kekuatan permintaan dan penawaran di pasar, sementara pemerintah hanya berperan sangat terbatas.\n\nSistem ekonomi tersebut dikenal sebagai sistem ekonomi ....",
+   "opsi": {
+    "A": "Pasar (liberal)",
+    "B": "Komando",
+    "C": "Campuran",
+    "D": "Subsisten",
+    "E": "Tradisional"
+   },
+   "kunci": "A",
+   "pembahasan": {
+    "A": "Benar — harga, jenis produksi, dan alokasi sumber daya yang sepenuhnya ditentukan oleh permintaan-penawaran, dengan peran pemerintah sangat terbatas, adalah ciri utama sistem ekonomi pasar (liberal).",
+    "B": "Salah — sistem komando justru dikendalikan penuh oleh pemerintah, bertolak belakang dengan ilustrasi.",
+    "C": "Salah — sistem campuran melibatkan peran pemerintah yang cukup besar, sedangkan ilustrasi menyebutkan peran pemerintah sangat terbatas.",
+    "D": "Salah — “subsisten” bukan istilah baku untuk sistem ekonomi yang dimaksud dalam ilustrasi.",
+    "E": "Salah — sistem tradisional berbasis adat istiadat, bukan mekanisme pasar."
+   }
+  },
+  {
+   "id": 37,
+   "subElemenKode": "UJIAN01",
+   "elemen": "Konsep Dasar Ilmu Ekonomi (Materi Pengayaan - di luar Kisi-Kisi Resmi Sub 1)",
+   "subElemen": "7. Sistem Ekonomi",
+   "level": "Pemahaman (knowing)",
+   "bentukSoal": "Pilihan Ganda",
+   "indikator": "Mengidentifikasi ciri sistem ekonomi komando",
+   "soal": "Pemerintah pusat suatu negara menetapkan secara langsung jenis, jumlah, dan harga seluruh barang yang boleh diproduksi oleh unit usaha milik negara, sementara kepemilikan sumber daya produksi utama berada di tangan negara.\n\nSistem ekonomi tersebut dikenal sebagai sistem ekonomi ....",
+   "opsi": {
+    "A": "Pasar",
+    "B": "Komando (sentralistik)",
+    "C": "Campuran",
+    "D": "Kerakyatan",
+    "E": "Tradisional"
+   },
+   "kunci": "B",
+   "pembahasan": {
+    "A": "Salah — sistem pasar justru diserahkan pada mekanisme harga, bertolak belakang dengan ilustrasi yang menyebutkan pemerintah pusat menetapkan langsung jenis, jumlah, dan harga.",
+    "B": "Benar — kendali penuh pemerintah pusat atas jenis, jumlah, dan harga produksi, serta kepemilikan sumber daya oleh negara, adalah ciri khas sistem ekonomi komando (sentralistik).",
+    "C": "Salah — sistem campuran memberi ruang bagi swasta, sedangkan ilustrasi hanya menyebut unit usaha milik negara.",
+    "D": "Salah — “kerakyatan” bukan istilah baku untuk sistem ekonomi yang dimaksud.",
+    "E": "Salah — sistem tradisional berbasis adat istiadat, bukan kendali pemerintah pusat."
+   }
+  },
+  {
+   "id": 38,
+   "subElemenKode": "UJIAN01",
+   "elemen": "Konsep Dasar Ilmu Ekonomi (Materi Pengayaan - di luar Kisi-Kisi Resmi Sub 1)",
+   "subElemen": "7. Sistem Ekonomi",
+   "level": "Penerapan (applying)",
+   "bentukSoal": "Pilihan Ganda",
+   "indikator": "Mengklasifikasikan ciri-ciri ke dalam jenis sistem ekonomi yang tepat",
+   "soal": "Perhatikan ciri-ciri berikut: (1) harga barang ditentukan oleh mekanisme pasar; (2) pemerintah menetapkan upah minimum dan menyediakan jaminan kesehatan sebagai jaring pengaman sosial; (3) badan usaha milik negara dan swasta sama-sama diberi ruang untuk beroperasi.\n\nCiri-ciri tersebut paling sesuai dengan sistem ekonomi ....",
+   "opsi": {
+    "A": "Tradisional",
+    "B": "Pasar murni",
+    "C": "Komando murni",
+    "D": "Campuran",
+    "E": "Subsisten tertutup"
+   },
+   "kunci": "D",
+   "pembahasan": {
+    "A": "Salah — sistem tradisional tidak melibatkan mekanisme pasar maupun kebijakan pemerintah modern seperti upah minimum dan jaminan kesehatan.",
+    "B": "Salah — “pasar murni” tidak sesuai karena ada campur tangan pemerintah lewat upah minimum dan jaminan kesehatan (ciri 2).",
+    "C": "Salah — “komando murni” tidak sesuai karena harga ditentukan mekanisme pasar dan swasta tetap diberi ruang beroperasi (ciri 1 dan 3).",
+    "D": "Benar — kombinasi antara mekanisme pasar (ciri 1), intervensi pemerintah untuk jaring pengaman sosial (ciri 2), dan koeksistensi BUMN-swasta (ciri 3) adalah ciri khas sistem ekonomi campuran.",
+    "E": "Salah — “subsisten tertutup” tidak relevan dengan ciri-ciri yang disebutkan."
+   }
+  },
+  {
+   "id": 39,
+   "subElemenKode": "UJIAN01",
+   "elemen": "Konsep Dasar Ilmu Ekonomi (Materi Pengayaan - di luar Kisi-Kisi Resmi Sub 1)",
+   "subElemen": "7. Sistem Ekonomi",
+   "level": "Penalaran (reasoning)",
+   "bentukSoal": "Pilihan Ganda",
+   "indikator": "Menganalisis konsekuensi penerapan sistem ekonomi pasar dan komando",
+   "soal": "Negara A menerapkan sistem ekonomi yang sepenuhnya menyerahkan harga dan produksi pada mekanisme pasar, sedangkan Negara B menerapkan sistem yang seluruh keputusan ekonominya dikendalikan oleh pemerintah pusat.\n\nPernyataan yang paling tepat menggambarkan konsekuensi kedua sistem tersebut adalah ....",
+   "opsi": {
+    "A": "Negara A cenderung mengalami kelangkaan barang karena tidak ada insentif untuk berproduksi",
+    "B": "Negara B cenderung lebih inovatif karena adanya persaingan usaha yang ketat",
+    "C": "Negara B cenderung memiliki kesenjangan ekonomi yang lebih tinggi dibanding Negara A",
+    "D": "Kedua negara akan mengalami hasil ekonomi yang identik karena tetap menghadapi kelangkaan sumber daya",
+    "E": "Negara A cenderung lebih efisien dan inovatif karena persaingan bebas, tetapi berisiko menimbulkan kesenjangan ekonomi yang tinggi"
+   },
+   "kunci": "E",
+   "pembahasan": {
+    "A": "Salah — sistem pasar justru memberi insentif laba yang mendorong pelaku usaha berproduksi, bukan menyebabkan kelangkaan barang.",
+    "B": "Salah — sistem komando (Negara B) minim persaingan usaha karena produksi dikendalikan penuh oleh pemerintah pusat, bukan sebaliknya.",
+    "C": "Salah — umumnya justru sistem pasar (Negara A) yang lebih berisiko menimbulkan kesenjangan ekonomi tinggi dibanding sistem komando yang terpusat dan cenderung menyamaratakan distribusi.",
+    "D": "Salah — kedua sistem menghasilkan konsekuensi ekonomi yang berbeda, bukan identik, karena mekanisme pengambilan keputusannya berbeda.",
+    "E": "Benar — sistem pasar (Negara A) cenderung mendorong efisiensi dan inovasi lewat persaingan bebas, tetapi berisiko menimbulkan kesenjangan ekonomi karena hanya pelaku usaha kuat yang mampu bersaing."
+   }
+  },
+  {
+   "id": 40,
+   "subElemenKode": "UJIAN01",
+   "elemen": "Konsep Dasar Ilmu Ekonomi (Materi Pengayaan - di luar Kisi-Kisi Resmi Sub 1)",
+   "subElemen": "7. Sistem Ekonomi",
+   "level": "Penalaran (reasoning)",
+   "bentukSoal": "Pilihan Ganda",
+   "indikator": "Menganalisis penerapan sistem ekonomi campuran di Indonesia",
+   "soal": "Indonesia memberi ruang bagi pelaku usaha swasta dan asing untuk berinvestasi dan bersaing di pasar, namun negara tetap menguasai cabang-cabang produksi yang penting bagi hajat hidup orang banyak, seperti listrik, air, dan energi, sebagaimana diamanatkan Pasal 33 UUD 1945.\n\nPraktik tersebut menunjukkan bahwa sistem ekonomi Indonesia adalah sistem ekonomi campuran, karena ....",
+   "opsi": {
+    "A": "Mekanisme pasar dan campur tangan pemerintah berjalan berdampingan untuk mencapai kesejahteraan bersama",
+    "B": "Kegiatan ekonomi sepenuhnya diatur berdasarkan adat istiadat yang berlaku turun-temurun",
+    "C": "Pemerintah hanya berperan sebagai pengamat tanpa kewenangan mengatur pasar",
+    "D": "Seluruh kegiatan ekonomi sepenuhnya diserahkan kepada mekanisme pasar tanpa campur tangan pemerintah",
+    "E": "Pemerintah mengambil alih seluruh kegiatan produksi dari sektor swasta"
+   },
+   "kunci": "A",
+   "pembahasan": {
+    "A": "Benar — sistem ekonomi campuran Indonesia mengombinasikan kebebasan pasar bagi swasta/asing dengan penguasaan negara atas cabang produksi strategis, sehingga pasar dan pemerintah berjalan berdampingan.",
+    "B": "Salah — ini ciri sistem ekonomi tradisional (berbasis adat istiadat), bukan sistem campuran seperti yang digambarkan.",
+    "C": "Salah — bertentangan dengan ilustrasi yang menyebutkan negara tetap menguasai cabang produksi penting, bukan sekadar mengamati.",
+    "D": "Salah — bertentangan dengan ilustrasi yang menyebutkan negara tetap mengontrol sektor strategis seperti listrik, air, dan energi.",
+    "E": "Salah — bertentangan dengan ilustrasi yang menyebutkan swasta dan asing tetap diberi ruang berinvestasi dan bersaing."
+   }
+  },
+  {
+   "id": 41,
+   "subElemenKode": "UJIAN01",
+   "elemen": "Konsep Dasar Ilmu Ekonomi (Materi Pengayaan - di luar Kisi-Kisi Resmi Sub 1)",
+   "subElemen": "Kelebihan & Kelemahan Sistem Ekonomi",
+   "level": "Pemahaman (knowing)",
+   "bentukSoal": "Pilihan Ganda",
+   "indikator": "Mengidentifikasi kelebihan sistem ekonomi pasar",
+   "soal": "Dalam sistem ekonomi pasar, setiap pelaku usaha bebas menentukan jenis dan jumlah barang yang diproduksi berdasarkan sinyal harga dari pasar, tanpa arahan langsung dari pemerintah.\n\nSalah satu kelebihan utama sistem ekonomi pasar dibandingkan sistem lain adalah ....",
+   "opsi": {
+    "A": "Menjamin ketersediaan barang kebutuhan pokok bagi masyarakat miskin",
+    "B": "Meniadakan kemungkinan terjadinya pengangguran",
+    "C": "Mendorong efisiensi dan inovasi karena adanya persaingan bebas antarpelaku usaha",
+    "D": "Menjamin pemerataan pendapatan bagi seluruh lapisan masyarakat",
+    "E": "Menghilangkan risiko terjadinya monopoli oleh pelaku usaha besar"
+   },
+   "kunci": "C",
+   "pembahasan": {
+    "A": "Salah — sistem pasar tidak menjamin ketersediaan barang pokok bagi masyarakat miskin; produsen cenderung mengikuti sinyal harga/daya beli, bukan kebutuhan sosial semata.",
+    "B": "Salah — sistem pasar tidak meniadakan pengangguran; pengangguran tetap bisa terjadi mengikuti dinamika pasar tenaga kerja.",
+    "C": "Benar — kebebasan berusaha dan persaingan bebas pada sistem pasar mendorong pelaku usaha berinovasi dan berproduksi seefisien mungkin agar tetap kompetitif.",
+    "D": "Salah — sistem pasar justru rawan menimbulkan ketimpangan pendapatan, bukan menjamin pemerataan.",
+    "E": "Salah — tanpa regulasi pemerintah, sistem pasar justru rentan memunculkan monopoli oleh pelaku usaha besar, bukan menghilangkannya."
+   }
+  },
+  {
+   "id": 42,
+   "subElemenKode": "UJIAN01",
+   "elemen": "Konsep Dasar Ilmu Ekonomi (Materi Pengayaan - di luar Kisi-Kisi Resmi Sub 1)",
+   "subElemen": "Kelebihan & Kelemahan Sistem Ekonomi",
+   "level": "Pemahaman (knowing)",
+   "bentukSoal": "Pilihan Ganda",
+   "indikator": "Mengidentifikasi kelemahan sistem ekonomi pasar",
+   "soal": "Meskipun mendorong efisiensi, sistem ekonomi pasar yang dibiarkan berjalan tanpa campur tangan pemerintah cenderung menimbulkan persoalan tertentu dalam masyarakat.\n\nSalah satu kelemahan utama sistem ekonomi pasar adalah ....",
+   "opsi": {
+    "A": "Tidak mampu mendorong munculnya inovasi produk baru",
+    "B": "Menghilangkan kebebasan konsumen dalam memilih barang",
+    "C": "Menyebabkan seluruh harga barang ditetapkan oleh pemerintah",
+    "D": "Meniadakan persaingan antarpelaku usaha",
+    "E": "Berpotensi menimbulkan kesenjangan ekonomi karena hanya pelaku usaha kuat yang mampu bersaing"
+   },
+   "kunci": "E",
+   "pembahasan": {
+    "A": "Salah — sistem pasar justru mendorong lahirnya inovasi lewat persaingan bebas, bukan menghambatnya.",
+    "B": "Salah — sistem pasar menjunjung tinggi kebebasan konsumen memilih barang, bukan menghilangkannya.",
+    "C": "Salah — penetapan harga sepenuhnya oleh pemerintah adalah ciri sistem komando, bukan sistem pasar.",
+    "D": "Salah — sistem pasar justru identik dengan persaingan usaha yang tinggi, bukan meniadakannya.",
+    "E": "Benar — tanpa campur tangan pemerintah, sistem pasar berpotensi menimbulkan kesenjangan ekonomi karena hanya pelaku usaha yang kuat modal dan efisien yang mampu terus bersaing dan berkembang."
+   }
+  },
+  {
+   "id": 43,
+   "subElemenKode": "UJIAN01",
+   "elemen": "Konsep Dasar Ilmu Ekonomi (Materi Pengayaan - di luar Kisi-Kisi Resmi Sub 1)",
+   "subElemen": "Kelebihan & Kelemahan Sistem Ekonomi",
+   "level": "Pemahaman (knowing)",
+   "bentukSoal": "Pilihan Ganda",
+   "indikator": "Mengidentifikasi kelebihan sistem ekonomi komando",
+   "soal": "Pada sistem ekonomi komando, pemerintah mengendalikan penuh alokasi sumber daya dan produksi sehingga dapat mengarahkan pembangunan sesuai prioritas nasional.\n\nSalah satu kelebihan sistem ekonomi komando adalah ....",
+   "opsi": {
+    "A": "Kegiatan ekonomi sepenuhnya diserahkan kepada pelaku usaha swasta",
+    "B": "Pemerintah dapat mengendalikan pemerataan distribusi barang dan mengurangi kesenjangan ekonomi",
+    "C": "Persaingan usaha berjalan sangat bebas tanpa batasan",
+    "D": "Harga barang sepenuhnya ditentukan oleh mekanisme pasar",
+    "E": "Inovasi produk berkembang sangat pesat karena persaingan tinggi"
+   },
+   "kunci": "B",
+   "pembahasan": {
+    "A": "Salah — menyerahkan kegiatan ekonomi sepenuhnya kepada swasta adalah ciri sistem pasar, bertolak belakang dengan sistem komando yang dikendalikan negara.",
+    "B": "Benar — karena alokasi sumber daya dan produksi dikendalikan penuh oleh pemerintah, sistem komando memungkinkan negara mengarahkan distribusi barang secara lebih merata sesuai prioritas nasional.",
+    "C": "Salah — sistem komando minim persaingan usaha karena produksi diatur dan dikendalikan pemerintah pusat.",
+    "D": "Salah — harga pada sistem komando ditetapkan pemerintah, bukan mekanisme pasar.",
+    "E": "Salah — minimnya persaingan usaha pada sistem komando justru cenderung memperlambat laju inovasi produk."
+   }
+  },
+  {
+   "id": 44,
+   "subElemenKode": "UJIAN01",
+   "elemen": "Konsep Dasar Ilmu Ekonomi (Materi Pengayaan - di luar Kisi-Kisi Resmi Sub 1)",
+   "subElemen": "Kelebihan & Kelemahan Sistem Ekonomi",
+   "level": "Penerapan (applying)",
+   "bentukSoal": "Pilihan Ganda",
+   "indikator": "Menerapkan konsep kelemahan sistem ekonomi komando pada kasus kelangkaan barang",
+   "soal": "Sebuah negara yang menerapkan sistem ekonomi komando mengalami kelangkaan barang konsumsi tertentu karena pabrik-pabrik milik negara terus memproduksi jenis barang yang sama sesuai target dari pemerintah pusat, meskipun permintaan masyarakat terhadap barang tersebut sudah menurun.\n\nKondisi tersebut menggambarkan kelemahan sistem ekonomi komando, yaitu ....",
+   "opsi": {
+    "A": "Harga barang naik secara tidak terkendali akibat spekulasi pasar",
+    "B": "Persaingan antarperusahaan swasta yang tidak sehat",
+    "C": "Pemerintah tidak memiliki wewenang mengatur produksi barang",
+    "D": "Produksi barang kurang responsif terhadap perubahan kebutuhan riil masyarakat karena tidak mengacu pada mekanisme pasar",
+    "E": "Terlalu banyak pilihan barang yang membingungkan konsumen"
+   },
+   "kunci": "D",
+   "pembahasan": {
+    "A": "Salah — kenaikan harga akibat spekulasi pasar adalah fenomena sistem pasar, bukan sistem komando yang harganya ditetapkan pemerintah.",
+    "B": "Salah — ilustrasi tidak melibatkan persaingan swasta karena seluruh produksi berada di tangan pabrik milik negara.",
+    "C": "Salah — justru sebaliknya, pemerintah pada sistem komando memiliki wewenang penuh mengatur produksi, dan itulah sebabnya produksi terus berjalan sesuai target meski permintaan riil sudah menurun.",
+    "D": "Benar — karena keputusan produksi ditetapkan dari pusat berdasarkan target, bukan berdasarkan sinyal permintaan pasar, produksi menjadi kurang responsif terhadap perubahan kebutuhan riil masyarakat, sehingga terjadi kelangkaan pada barang yang justru dibutuhkan.",
+    "E": "Salah — masalah dalam ilustrasi adalah kelangkaan akibat produksi yang tidak sesuai kebutuhan, bukan kebanyakan pilihan barang."
+   }
+  },
+  {
+   "id": 45,
+   "subElemenKode": "UJIAN01",
+   "elemen": "Konsep Dasar Ilmu Ekonomi (Materi Pengayaan - di luar Kisi-Kisi Resmi Sub 1)",
+   "subElemen": "Kelebihan & Kelemahan Sistem Ekonomi",
+   "level": "Penalaran (reasoning)",
+   "bentukSoal": "Pilihan Ganda",
+   "indikator": "Menganalisis tantangan (kelemahan) penerapan sistem ekonomi campuran",
+   "soal": "Sistem ekonomi campuran berupaya menggabungkan kebebasan pasar dengan intervensi pemerintah. Namun, penerapannya tetap menghadapi tantangan, misalnya menentukan seberapa besar porsi campur tangan pemerintah yang ideal agar tidak mematikan inisiatif swasta, tetapi juga tidak membiarkan pasar sepenuhnya tanpa kendali.\n\nTantangan tersebut menunjukkan bahwa kelemahan sistem ekonomi campuran adalah ....",
+   "opsi": {
+    "A": "Diperlukan keseimbangan yang tepat antara peran pasar dan pemerintah, yang dalam praktiknya sulit ditentukan secara pasti dan berisiko menimbulkan inefisiensi jika keliru",
+    "B": "Sistem ini tidak pernah memberikan kebebasan sama sekali kepada pelaku usaha swasta",
+    "C": "Sistem ini menghilangkan seluruh fungsi pasar dalam perekonomian",
+    "D": "Sistem ini hanya dapat diterapkan oleh negara dengan wilayah kecil",
+    "E": "Sistem ini menjamin tidak akan pernah terjadi resesi ekonomi"
+   },
+   "kunci": "A",
+   "pembahasan": {
+    "A": "Benar — menentukan porsi ideal antara kebebasan pasar dan intervensi pemerintah bukan hal sederhana; jika keliru, bisa menimbulkan inefisiensi (misalnya intervensi berlebihan mematikan inisiatif swasta, atau intervensi terlalu sedikit membiarkan kegagalan pasar terjadi).",
+    "B": "Salah — pernyataan ini berlebihan (ekstrem); sistem campuran tetap memberi ruang kebebasan usaha bagi swasta, hanya dengan batasan tertentu dari pemerintah.",
+    "C": "Salah — pernyataan ini berlebihan; sistem campuran tetap mempertahankan fungsi pasar, tidak menghilangkannya sama sekali.",
+    "D": "Salah — sistem campuran justru banyak diterapkan oleh negara besar seperti Indonesia, bukan hanya negara berwilayah kecil.",
+    "E": "Salah — tidak ada sistem ekonomi, termasuk sistem campuran, yang dapat menjamin suatu negara bebas dari risiko resesi."
+   }
+  },
+  {
+   "id": 46,
+   "subElemenKode": "UJIAN01",
+   "elemen": "Konsep Dasar Ilmu Ekonomi (Materi Pengayaan - di luar Kisi-Kisi Resmi Sub 1)",
+   "subElemen": "Kelebihan & Kelemahan Sistem Ekonomi",
+   "level": "Penalaran (reasoning)",
+   "bentukSoal": "PGK Kategori",
+   "indikator": "Menentukan benar/salah pernyataan tentang kelebihan-kelemahan sistem ekonomi",
+   "soal": "Setiap sistem ekonomi—tradisional, pasar, komando, dan campuran—memiliki kelebihan sekaligus kelemahan yang memengaruhi seberapa baik sistem tersebut mampu menyejahterakan masyarakat.\n\nTentukan Benar atau Salah untuk setiap pernyataan berikut.",
+   "opsi": {
+    "A": "Sistem ekonomi tradisional cenderung sulit berkembang pesat karena minim inovasi teknologi, meskipun unggul dalam menjaga kelestarian nilai sosial-budaya masyarakat",
+    "B": "Sistem ekonomi pasar selalu lebih unggul daripada sistem ekonomi campuran dalam segala aspek, termasuk pemerataan kesejahteraan",
+    "C": "Sistem ekonomi campuran dirancang untuk mengambil kelebihan sistem pasar dan sistem komando sekaligus meminimalkan kelemahan keduanya, meskipun penerapannya tetap menghadapi tantangan tersendiri"
+   },
+   "kunci": "A. Benar, B. Salah, C. Benar",
+   "pembahasan": {
+    "A": "Benar — minimnya adopsi teknologi modern membuat sistem tradisional sulit berkembang pesat secara ekonomi, tetapi sistem ini unggul dalam menjaga kelestarian nilai sosial-budaya masyarakat yang menjalankannya.",
+    "B": "Salah — pernyataan ini berlebihan (generalisasi absolut); sistem pasar justru cenderung lebih lemah dalam hal pemerataan kesejahteraan dibanding sistem campuran yang memiliki mekanisme redistribusi dari pemerintah.",
+    "C": "Benar — inilah esensi konseptual sistem ekonomi campuran: mengambil kelebihan sistem pasar (efisiensi, inovasi) dan sistem komando (pemerataan, kendali), sekaligus meminimalkan kelemahan keduanya, meski penerapannya tetap menghadapi tantangan tersendiri (seperti dibahas pada soal sebelumnya)."
+   }
+  },
+  {
+   "id": 47,
+   "subElemenKode": "UJIAN01",
+   "elemen": "Konsep Dasar Ilmu Ekonomi (Materi Pengayaan - di luar Kisi-Kisi Resmi Sub 1)",
+   "subElemen": "8. Peran Pelaku Ekonomi",
+   "level": "Penalaran (reasoning)",
+   "bentukSoal": "PGK Kategori",
+   "indikator": "Menentukan benar/salah pernyataan tentang interaksi antar pelaku ekonomi",
+   "soal": "Empat pelaku ekonomi utama, yaitu rumah tangga konsumsi, rumah tangga produksi, pemerintah, dan masyarakat luar negeri, saling berinteraksi dan memengaruhi satu sama lain dalam kegiatan ekonomi suatu negara.\n\nTentukan Benar atau Salah untuk setiap pernyataan berikut.",
+   "opsi": {
+    "A": "Rumah tangga produksi hanya berperan sebagai konsumen faktor produksi, tidak pernah berperan sebagai produsen barang dan jasa",
+    "B": "Pemerintah dapat berperan sebagai konsumen sekaligus pengatur (regulator) kegiatan ekonomi",
+    "C": "Interaksi dengan masyarakat luar negeri hanya terjadi melalui kegiatan ekspor, tidak termasuk impor maupun investasi asing"
+   },
+   "kunci": "A. Salah, B. Benar, C. Salah",
+   "pembahasan": {
+    "A": "Salah — rumah tangga produksi (RTP) justru utamanya berperan sebagai PRODUSEN barang dan jasa; ia menjadi konsumen faktor produksi (tenaga kerja, modal, dll) justru untuk mendukung fungsi produksinya, bukan sebagai peran tunggalnya.",
+    "B": "Benar — pemerintah dapat berperan sebagai konsumen (misalnya membeli barang/jasa untuk keperluan pembangunan) sekaligus sebagai pengatur/regulator kegiatan ekonomi (misalnya menetapkan aturan upah minimum atau pajak).",
+    "C": "Salah — interaksi dengan masyarakat luar negeri mencakup ekspor, impor, dan investasi asing sekaligus, tidak terbatas pada ekspor saja."
+   }
+  },
+  {
+   "id": 48,
+   "subElemenKode": "UJIAN01",
+   "elemen": "Konsep Dasar Ilmu Ekonomi (Materi Pengayaan - di luar Kisi-Kisi Resmi Sub 1)",
+   "subElemen": "8. Peran Pelaku Ekonomi",
+   "level": "Pemahaman (knowing)",
+   "bentukSoal": "Pilihan Ganda",
+   "indikator": "Mengidentifikasi peran Rumah Tangga Konsumsi (RTK)",
+   "soal": "Keluarga Pak Anwar menyediakan tenaga kerja untuk sebuah pabrik dan menerima upah sebagai imbalan, kemudian menggunakan sebagian pendapatan tersebut untuk membeli kebutuhan sehari-hari di pasar.\n\nPeran keluarga Pak Anwar dalam kegiatan ekonomi tersebut menunjukkan fungsinya sebagai ....",
+   "opsi": {
+    "A": "Lembaga keuangan",
+    "B": "Rumah Tangga Konsumsi (RTK)",
+    "C": "Rumah Tangga Produksi (RTP)",
+    "D": "Pemerintah",
+    "E": "Masyarakat Luar Negeri"
+   },
+   "kunci": "B",
+   "pembahasan": {
+    "A": "Salah — keluarga Pak Anwar bukan lembaga keuangan; ia adalah rumah tangga biasa yang menyediakan tenaga kerja dan mengonsumsi barang.",
+    "B": "Benar — menyediakan tenaga kerja (faktor produksi) untuk menerima upah, lalu menggunakan pendapatan tersebut untuk membeli kebutuhan sehari-hari, adalah peran khas Rumah Tangga Konsumsi (RTK).",
+    "C": "Salah — Rumah Tangga Produksi (RTP) berperan sebagai produsen/perusahaan yang mengolah faktor produksi menjadi barang/jasa, bukan sebagai penyedia tenaga kerja perorangan.",
+    "D": "Salah — tidak ada unsur pemerintahan (pajak, regulasi, dsb.) dalam ilustrasi keluarga Pak Anwar.",
+    "E": "Salah — tidak ada unsur ekspor-impor atau hubungan luar negeri dalam ilustrasi tersebut."
+   }
+  },
+  {
+   "id": 49,
+   "subElemenKode": "UJIAN01",
+   "elemen": "Konsep Dasar Ilmu Ekonomi (Materi Pengayaan - di luar Kisi-Kisi Resmi Sub 1)",
+   "subElemen": "9. Tujuan Sistem Ekonomi",
+   "level": "Pemahaman (knowing)",
+   "bentukSoal": "Pilihan Ganda",
+   "indikator": "Mengidentifikasi tujuan sistem ekonomi",
+   "soal": "Setiap negara merancang sistem ekonominya agar mampu menyediakan barang dan jasa yang dibutuhkan rakyatnya, menciptakan lapangan kerja, serta menjaga kestabilan harga di pasar.\n\nUraian tersebut menunjukkan salah satu tujuan utama sistem ekonomi, yaitu ....",
+   "opsi": {
+    "A": "Menghapus seluruh peran pasar dalam perekonomian",
+    "B": "Menghentikan seluruh kegiatan ekspor-impor",
+    "C": "Meniadakan peran pemerintah dalam perekonomian",
+    "D": "Memenuhi kebutuhan masyarakat dan menjaga stabilitas ekonomi",
+    "E": "Memaksimalkan pendapatan segelintir pelaku usaha besar"
+   },
+   "kunci": "D",
+   "pembahasan": {
+    "A": "Salah — pernyataan ini bertentangan dengan tujuan sistem ekonomi; menghapus seluruh peran pasar bukan tujuan sistem ekonomi mana pun, termasuk sistem campuran.",
+    "B": "Salah — menghentikan seluruh kegiatan ekspor-impor bukan tujuan sistem ekonomi; justru banyak negara mengejar kerja sama ekonomi internasional untuk kesejahteraan.",
+    "C": "Salah — meniadakan peran pemerintah bertentangan dengan fungsi pemerintah sebagai pengatur dan penyedia jaring pengaman sosial dalam perekonomian.",
+    "D": "Benar — sesuai ilustrasi, tujuan sistem ekonomi mencakup penyediaan barang/jasa yang dibutuhkan rakyat, penciptaan lapangan kerja, dan penjagaan stabilitas harga, yang semuanya bermuara pada pemenuhan kebutuhan masyarakat dan stabilitas ekonomi.",
+    "E": "Salah — tujuan sistem ekonomi berorientasi pada kesejahteraan masyarakat secara luas, bukan memaksimalkan keuntungan segelintir pelaku usaha besar semata."
+   }
+  },
+  {
+   "id": 50,
+   "subElemenKode": "UJIAN01",
+   "elemen": "Konsep Dasar Ilmu Ekonomi (Materi Pengayaan - di luar Kisi-Kisi Resmi Sub 1)",
+   "subElemen": "9. Tujuan Sistem Ekonomi",
+   "level": "Penalaran (reasoning)",
+   "bentukSoal": "PGK Kategori",
+   "indikator": "Menentukan benar/salah pernyataan tentang tujuan sistem ekonomi",
+   "soal": "Sistem ekonomi suatu negara, apa pun bentuknya, pada dasarnya dirancang untuk mencapai beberapa tujuan sekaligus: memenuhi kebutuhan masyarakat, menciptakan efisiensi, mewujudkan pemerataan, dan menjaga stabilitas ekonomi.\n\nTentukan Benar atau Salah untuk setiap pernyataan berikut.",
+   "opsi": {
+    "A": "Tujuan sistem ekonomi hanya berfokus pada pencapaian keuntungan maksimal bagi pelaku usaha besar",
+    "B": "Efisiensi dalam sistem ekonomi berarti penggunaan sumber daya yang terbatas untuk menghasilkan output yang optimal",
+    "C": "Pemerataan dan keadilan sosial merupakan salah satu tujuan sistem ekonomi agar kesenjangan antarkelompok masyarakat dapat diminimalkan"
+   },
+   "kunci": "A. Salah, B. Benar, C. Benar",
+   "pembahasan": {
+    "A": "Salah — tujuan sistem ekonomi mencakup kesejahteraan masyarakat secara luas (pemenuhan kebutuhan, pemerataan, stabilitas), bukan sekadar keuntungan maksimal bagi pelaku usaha besar.",
+    "B": "Benar — efisiensi dalam sistem ekonomi memang berarti penggunaan sumber daya yang terbatas secara optimal untuk menghasilkan output sebesar-besarnya tanpa pemborosan.",
+    "C": "Benar — pemerataan dan keadilan sosial adalah salah satu tujuan universal sistem ekonomi agar kesenjangan antarkelompok masyarakat dapat diminimalkan, sebagaimana dibahas pada soal-soal sebelumnya."
+   }
+  }
+ ]
+}
